@@ -149,3 +149,24 @@ def clean_text(text):
     text = re.sub(r"[^a-z ]", " ", text)
     tokens = [lemmatizer.lemmatize(w) for w in text.split() if w not in stop_words]
     return " ".join(tokens)
+
+
+# Sidebar & Mode Selection
+with st.sidebar:
+    st.markdown(f"""
+        <div class="profile-container">
+            <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" class="profile-pic" width="100">
+            <div class="admin-name">System Administrator</div>
+            <div class="status-tag">● Session Active</div>
+        </div>
+    """, unsafe_allow_html=True)
+    
+    st.title("Settings")
+    # Added Icons to Radio labels for visual distinction
+    mode_options = {
+        "📊 Demo Dataset": "Demo Dataset",
+        "🏛 Institution Audit": "Institution Audit"
+    }
+    selected_label = st.radio("Analysis Mode", list(mode_options.keys()), index=0)
+    analysis_mode = mode_options[selected_label]
+    st.divider()
