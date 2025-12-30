@@ -1,0 +1,1001 @@
+institute_type,department,program,academic_year,semester,course_title,course_type,topics,tools_technologies,programming_languages,math_foundation,bloom_level,credits,project_required,generation_method,is_synthetic
+IIIT,CSE,B.Tech,2023-2024,2,Foundations of Visualization,Elective,Visualization;Neural Networks;Clustering,Python,Python,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,4,Applied Image Processing,Core,Image Processing;Classification;EDA,NLTK;Git;PyTorch,C++,Basic Math,Create,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,3,Applied Deployment,Core,Deployment;RNN;Graphs;Trees,Java;TensorFlow,Python,Statistics,Understand,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,5,Foundations of Cloud Computing,Elective,Cloud Computing;Classification;EDA;Trees;Linked Lists,SQL;HuggingFace;Scikit-learn,Java,Statistics,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,6,Advanced Data Pipelines,Core,Data Pipelines;Neural Networks;EDA;HDFS,AWS,Java,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,4,Applied Deployment,Core,Deployment;Linked Lists;Clustering;RNN;SQL,Java;SQL,Python,Statistics,Create,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,3,Advanced Dynamic Programming,Core,Dynamic Programming;Clustering;Visualization;Image Processing;Neural Networks,AWS;PyTorch;Spark,Python,Statistics,Understand,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,2,Applied HDFS,Core,HDFS;Regression;Data Pipelines;Indexing,Java;PyTorch;Pandas,Python,Basic Math,Understand,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,5,Advanced Graphs,Core,Graphs;CNN;Indexing;Regression;Normalization,NLTK,Python,Probability,Apply,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,3,Advanced Spark,Core,Spark;RNN;Tokenization,Java,C++,Logic,Understand,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,8,Advanced Deployment,Elective,Deployment;Image Processing;Dynamic Programming,OpenCV,Python,Logic,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,4,Applied SQL,Core,SQL;Data Pipelines;HDFS;Transformers;Normalization,Docker;Java;SQL,Python,Logic,Apply,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,1,Foundations of EDA,Core,EDA;HDFS;Linked Lists,Java,Java,Basic Math,Create,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,3,Foundations of Clustering,Core,Clustering;Tokenization;Indexing;Classification;Graphs;HDFS,PyTorch;TensorFlow;Spark,C++,Statistics,Analyze,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,4,Foundations of Image Processing,Elective,Image Processing;Normalization;Dynamic Programming;Indexing,Scikit-learn,Python,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,1,Foundations of Deployment,Core,Deployment;Clustering;Regression,Docker;Spark,Java,Discrete Math,Create,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,8,Foundations of Indexing,Core,Indexing;EDA;Visualization;Image Processing;Data Pipelines,Docker;Python;SQL,Python,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,8,Advanced Linked Lists,Elective,Linked Lists;Embeddings;Trees;Regression,AWS,C++,Logic,Apply,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,1,Applied Indexing,Core,Indexing;Data Pipelines;Cloud Computing,Git;TensorFlow;Scikit-learn,Java,Statistics,Apply,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,5,Applied RNN,Core,RNN;Trees;Arrays;Normalization;Spark;Cloud Computing,Java,Java,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,3,Foundations of Image Processing,Core,Image Processing;EDA;CNN;Spark;HDFS;Embeddings,OpenCV,Java,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,3,Introduction to CNN,Elective,CNN;Spark;Classification;EDA;RNN,OpenCV,C++,Discrete Math,Create,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,1,Foundations of Deployment,Core,Deployment;Dynamic Programming;HDFS;Neural Networks;Regression,Docker;Git;NLTK,C++,Basic Math,Apply,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,6,Advanced Indexing,Core,Indexing;Dynamic Programming;Linked Lists;CNN,Spark;HuggingFace,Python,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,7,Advanced Clustering,Elective,Clustering;Regression;Indexing;Arrays,NLTK,C++,Basic Math,Understand,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,1,Introduction to Clustering,Elective,Clustering;Classification;Normalization;Transformers;CNN;Deployment,C++,Java,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,7,Applied Arrays,Elective,Arrays;Graphs;Neural Networks;Regression;Cloud Computing,C++;Java,Java,Logic,Understand,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,4,Advanced Linked Lists,Elective,Linked Lists;EDA;Indexing;Arrays;Embeddings,OpenCV;NLTK;Pandas,Java,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,2,Advanced Embeddings,Elective,Embeddings;CNN;Data Pipelines;Indexing;RNN,NLTK;Scikit-learn,Python,Statistics,Apply,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,5,Introduction to Image Processing,Core,Image Processing;Arrays;CNN;EDA;Classification;Indexing,AWS;OpenCV;TensorFlow,Python,Statistics,Apply,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,5,Foundations of Trees,Core,Trees;Deployment;Clustering;Data Pipelines;CNN,HuggingFace,C++,Statistics,Understand,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,4,Advanced Tokenization,Elective,Tokenization;SQL;Clustering;Dynamic Programming;HDFS;Arrays,HuggingFace,C++,Logic,Apply,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,3,Introduction to Data Pipelines,Core,Data Pipelines;Embeddings;Image Processing;Spark;RNN;Normalization,Pandas;NLTK;Git,Python,Statistics,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,4,Advanced Deployment,Elective,Deployment;Embeddings;Tokenization;HDFS;Clustering,Docker;Java,Java,Probability,Understand,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,4,Foundations of EDA,Core,EDA;Dynamic Programming;Deployment;Classification;Trees;Indexing,TensorFlow;Git,Java,Statistics,Understand,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,8,Advanced Transformers,Elective,Transformers;CNN;Deployment,Pandas;Spark,C++,Probability,Create,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,7,Introduction to Data Pipelines,Core,Data Pipelines;SQL;Visualization;Regression;Normalization,AWS,C++,Basic Math,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,8,Introduction to Linked Lists,Elective,Linked Lists;Neural Networks;SQL;RNN,Docker,Java,Probability,Understand,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,1,Advanced Clustering,Core,Clustering;HDFS;Trees;Deployment;Linked Lists,SQL,C++,Statistics,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,8,Foundations of Deployment,Elective,Deployment;Transformers;Regression;Spark;Visualization,Java;HuggingFace;Python,Python,Logic,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,4,Foundations of Cloud Computing,Core,Cloud Computing;EDA;HDFS,Java,Java,Logic,Create,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,2,Introduction to Arrays,Core,Arrays;Indexing;Tokenization;Graphs;Transformers,Spark;Pandas;Docker,Python,Logic,Analyze,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,8,Introduction to Indexing,Elective,Indexing;Visualization;Cloud Computing;Neural Networks;RNN;Clustering,Scikit-learn,Java,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,8,Advanced Transformers,Core,Transformers;Neural Networks;RNN;Spark,Spark;Scikit-learn;Git,C++,Basic Math,Create,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,4,Applied HDFS,Elective,HDFS;EDA;Tokenization;Normalization;Arrays;Trees,SQL;PyTorch,Java,Logic,Analyze,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,6,Foundations of EDA,Core,EDA;Normalization;Neural Networks;CNN;Clustering,NLTK,C++,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,5,Advanced Classification,Elective,Classification;CNN;Clustering,Python;Scikit-learn,Python,Discrete Math,Understand,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,3,Introduction to Graphs,Core,Graphs;Arrays;Cloud Computing;CNN;Tokenization;HDFS,TensorFlow;Python,Python,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,1,Advanced Dynamic Programming,Elective,Dynamic Programming;Cloud Computing;CNN;Trees,Java,Java,Statistics,Analyze,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,5,Foundations of Spark,Core,Spark;Visualization;Graphs,OpenCV,C++,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,7,Foundations of EDA,Core,EDA;Spark;Tokenization;CNN;Linked Lists;Clustering,NLTK;Scikit-learn,Java,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,4,Applied Neural Networks,Elective,Neural Networks;Dynamic Programming;Trees;Linked Lists,HuggingFace,C++,Statistics,Analyze,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,5,Foundations of Normalization,Elective,Normalization;Trees;Spark;Linked Lists;Indexing;RNN,Scikit-learn;C++;Java,Python,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,8,Applied Regression,Elective,Regression;Cloud Computing;Indexing;HDFS;Tokenization,Docker,Python,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,8,Foundations of Data Pipelines,Elective,Data Pipelines;SQL;Deployment;Image Processing;Linked Lists,Java;TensorFlow,Python,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,4,Advanced Spark,Elective,Spark;Deployment;Tokenization;HDFS;Normalization,SQL,Java,Basic Math,Create,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,4,Foundations of CNN,Core,CNN;Image Processing;Arrays;Indexing,SQL,Java,Basic Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,5,Advanced Tokenization,Core,Tokenization;Deployment;Clustering;Normalization;Image Processing;Dynamic Programming,SQL;AWS,Java,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,1,Applied Visualization,Elective,Visualization;CNN;Cloud Computing;Data Pipelines;Tokenization,Docker,Python,Logic,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,4,Introduction to Cloud Computing,Elective,Cloud Computing;SQL;Clustering;Deployment,C++;TensorFlow,Python,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,3,Foundations of Graphs,Elective,Graphs;Normalization;Embeddings;Arrays;Visualization,PyTorch,Java,Probability,Create,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,6,Advanced RNN,Core,RNN;HDFS;EDA;Tokenization;Image Processing;Linked Lists,Java;SQL;OpenCV,Java,Discrete Math,Understand,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,5,Introduction to Linked Lists,Core,Linked Lists;RNN;CNN,TensorFlow;PyTorch,C++,Linear Algebra,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,7,Foundations of Tokenization,Elective,Tokenization;Cloud Computing;Dynamic Programming;Clustering,OpenCV;Scikit-learn,Java,Basic Math,Apply,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,6,Advanced HDFS,Elective,HDFS;Indexing;EDA;Neural Networks;Normalization,SQL;PyTorch,Python,Probability,Analyze,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,1,Applied Neural Networks,Core,Neural Networks;Arrays;Cloud Computing;Data Pipelines;Linked Lists;Spark,Docker;Pandas;Scikit-learn,Python,Linear Algebra,Analyze,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,3,Advanced HDFS,Core,HDFS;Linked Lists;CNN,C++;AWS,Java,Probability,Create,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,3,Foundations of Embeddings,Core,Embeddings;Neural Networks;Regression;Tokenization;CNN,Pandas;TensorFlow;HuggingFace,C++,Basic Math,Create,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,2,Applied Arrays,Core,Arrays;Neural Networks;Image Processing;Graphs;Normalization;Transformers,NLTK;OpenCV;Scikit-learn,Python,Linear Algebra,Create,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,6,Foundations of HDFS,Core,HDFS;Trees;Normalization;EDA,OpenCV;PyTorch,Java,Statistics,Understand,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,3,Introduction to Normalization,Elective,Normalization;Transformers;Data Pipelines;Image Processing;Indexing;Cloud Computing,NLTK;Python;PyTorch,Python,Probability,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,4,Foundations of Normalization,Elective,Normalization;Clustering;Transformers;Graphs;EDA;Image Processing,TensorFlow;C++;PyTorch,C++,Basic Math,Apply,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,1,Advanced RNN,Core,RNN;Clustering;Dynamic Programming,SQL;Java;HuggingFace,Java,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,3,Advanced Image Processing,Elective,Image Processing;Neural Networks;Regression;Graphs,Pandas;C++;Python,Python,Discrete Math,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,3,Foundations of Embeddings,Elective,Embeddings;Graphs;Trees;Tokenization;Normalization;Transformers,AWS;Java;Docker,Java,Basic Math,Understand,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,7,Applied Data Pipelines,Elective,Data Pipelines;Graphs;Tokenization;Normalization;Trees;HDFS,AWS;Python,Python,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,7,Introduction to EDA,Elective,EDA;Graphs;HDFS,Spark;HuggingFace;Git,C++,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,7,Foundations of RNN,Core,RNN;Indexing;Data Pipelines,TensorFlow;Python,Python,Discrete Math,Understand,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,6,Foundations of Image Processing,Elective,Image Processing;Linked Lists;Cloud Computing;RNN,Java;PyTorch;TensorFlow,Python,Probability,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,4,Applied Data Pipelines,Core,Data Pipelines;Tokenization;Clustering;Graphs,Pandas;Git,Java,Logic,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,5,Advanced Regression,Core,Regression;Neural Networks;EDA,Spark;TensorFlow,Python,Basic Math,Create,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,1,Applied Visualization,Elective,Visualization;Embeddings;Classification,PyTorch;Docker,Python,Probability,Understand,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,3,Introduction to Data Pipelines,Elective,Data Pipelines;Trees;Neural Networks,OpenCV;PyTorch,Java,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,2,Foundations of Data Pipelines,Core,Data Pipelines;Cloud Computing;Tokenization;Embeddings;CNN,SQL,C++,Probability,Apply,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,5,Advanced RNN,Elective,RNN;Graphs;Arrays;Tokenization;Visualization,Python;Spark,Python,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,7,Introduction to Normalization,Elective,Normalization;Trees;RNN,PyTorch;AWS;Spark,C++,Statistics,Understand,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,8,Applied Trees,Core,Trees;Indexing;Graphs;Clustering;Cloud Computing,Git;Java,Java,Linear Algebra,Understand,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,2,Applied Deployment,Core,Deployment;Transformers;Visualization;HDFS,SQL,C++,Logic,Apply,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,3,Introduction to Normalization,Core,Normalization;Cloud Computing;Visualization;Deployment;EDA;Spark,Pandas;OpenCV,Java,Statistics,Analyze,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,1,Foundations of Embeddings,Elective,Embeddings;Trees;CNN;Normalization;Linked Lists,TensorFlow,Java,Logic,Understand,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,4,Foundations of Spark,Core,Spark;Tokenization;Embeddings;Dynamic Programming;Linked Lists,Java;HuggingFace,C++,Linear Algebra,Create,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,3,Applied Transformers,Core,Transformers;CNN;SQL;Indexing;Deployment,OpenCV;AWS,Java,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,3,Advanced Trees,Core,Trees;Cloud Computing;Data Pipelines;Dynamic Programming;Transformers,OpenCV;NLTK,Java,Logic,Create,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,6,Applied Data Pipelines,Core,Data Pipelines;EDA;Visualization;Embeddings,OpenCV,Java,Probability,Apply,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,8,Foundations of Clustering,Elective,Clustering;Dynamic Programming;Trees;CNN,Git,Python,Linear Algebra,Create,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,3,Applied Visualization,Elective,Visualization;Normalization;Linked Lists;Indexing,OpenCV;NLTK,C++,Logic,Apply,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,8,Introduction to Transformers,Core,Transformers;Data Pipelines;Cloud Computing;Normalization,HuggingFace;Scikit-learn,C++,Logic,Apply,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,8,Introduction to Image Processing,Core,Image Processing;Graphs;EDA;Embeddings;CNN,HuggingFace,Java,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,1,Applied Linked Lists,Core,Linked Lists;SQL;Embeddings;Transformers;Clustering;Visualization,TensorFlow,Python,Basic Math,Analyze,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,1,Advanced Tokenization,Elective,Tokenization;EDA;Dynamic Programming;Deployment;Normalization,C++;Java;Spark,C++,Probability,Apply,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,1,Foundations of Indexing,Core,Indexing;HDFS;Spark;Normalization,Java,Python,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,6,Foundations of Cloud Computing,Elective,Cloud Computing;Indexing;Regression;Data Pipelines,Java;Git;TensorFlow,Java,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,1,Advanced Trees,Core,Trees;Transformers;Clustering;Visualization;Data Pipelines,Java;HuggingFace;AWS,Java,Logic,Analyze,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,8,Applied HDFS,Elective,HDFS;Regression;Dynamic Programming;Trees;Normalization;Linked Lists,SQL;C++,Python,Statistics,Create,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,4,Introduction to Transformers,Elective,Transformers;Deployment;Linked Lists;HDFS;RNN,Java;HuggingFace,Java,Probability,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,8,Applied Embeddings,Elective,Embeddings;Neural Networks;Trees;Visualization;Indexing,PyTorch,C++,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,5,Introduction to Spark,Elective,Spark;EDA;Indexing;Regression;Normalization;Transformers,C++;NLTK,Python,Discrete Math,Understand,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,7,Introduction to Embeddings,Core,Embeddings;Visualization;Data Pipelines;Regression;Arrays,Pandas,C++,Discrete Math,Apply,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,6,Advanced Cloud Computing,Elective,Cloud Computing;Linked Lists;Spark;Dynamic Programming;Normalization;Transformers,Docker;HuggingFace,Java,Probability,Analyze,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,1,Introduction to Tokenization,Core,Tokenization;Embeddings;SQL;Image Processing,Scikit-learn,Python,Probability,Create,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,3,Applied Normalization,Core,Normalization;Regression;EDA,Java;HuggingFace,Python,Logic,Analyze,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,3,Introduction to Transformers,Core,Transformers;Embeddings;Clustering;Graphs,HuggingFace,Java,Logic,Analyze,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,3,Foundations of Trees,Core,Trees;CNN;SQL,NLTK;Docker;Git,Java,Basic Math,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,6,Foundations of Deployment,Core,Deployment;Image Processing;HDFS;Cloud Computing,HuggingFace,Python,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,6,Advanced Transformers,Elective,Transformers;Embeddings;CNN;Trees,SQL;OpenCV,Python,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,3,Foundations of Regression,Core,Regression;Data Pipelines;Spark;Visualization,TensorFlow;Pandas;AWS,Python,Logic,Analyze,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,7,Introduction to Tokenization,Elective,Tokenization;HDFS;Image Processing,OpenCV;Scikit-learn,Java,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,7,Applied Normalization,Core,Normalization;Classification;RNN;Spark;Dynamic Programming;EDA,TensorFlow;NLTK;Spark,Java,Linear Algebra,Create,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,8,Advanced Dynamic Programming,Elective,Dynamic Programming;Graphs;Linked Lists;CNN,Pandas;AWS,Python,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,3,Advanced Embeddings,Core,Embeddings;Normalization;Tokenization;CNN;EDA;Arrays,PyTorch,Python,Probability,Understand,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,8,Foundations of CNN,Elective,CNN;Image Processing;Arrays;Graphs;Indexing;Dynamic Programming,NLTK;TensorFlow,C++,Logic,Apply,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,5,Foundations of SQL,Core,SQL;Embeddings;Normalization,Scikit-learn;Pandas;AWS,C++,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,6,Applied Classification,Elective,Classification;Spark;Embeddings;SQL,C++;Spark;Pandas,Python,Statistics,Apply,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,3,Introduction to Spark,Elective,Spark;RNN;Regression;SQL;Visualization,AWS;TensorFlow,Java,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,2,Advanced Cloud Computing,Core,Cloud Computing;CNN;EDA;HDFS;Arrays;Spark,Scikit-learn;OpenCV,Python,Statistics,Apply,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,7,Introduction to Data Pipelines,Core,Data Pipelines;Clustering;Linked Lists;Cloud Computing,Java;SQL;C++,Java,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,8,Introduction to EDA,Elective,EDA;Dynamic Programming;Embeddings,Git,Java,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,6,Advanced Spark,Elective,Spark;Tokenization;Classification;Clustering;Neural Networks,Scikit-learn;SQL;Spark,Java,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,5,Foundations of Graphs,Elective,Graphs;Cloud Computing;Data Pipelines;Image Processing;SQL,Pandas;TensorFlow,Python,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,5,Advanced Classification,Core,Classification;Deployment;Image Processing;Neural Networks;EDA;Data Pipelines,Java,C++,Basic Math,Apply,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,1,Advanced Indexing,Elective,Indexing;RNN;EDA,Java;OpenCV,Python,Statistics,Create,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,5,Foundations of CNN,Core,CNN;HDFS;Linked Lists;Deployment;Trees,AWS;SQL;Git,Java,Linear Algebra,Understand,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,8,Applied Visualization,Elective,Visualization;CNN;Linked Lists;Arrays,AWS;Spark,Python,Logic,Create,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,8,Foundations of Classification,Elective,Classification;Graphs;RNN;Regression;Visualization,OpenCV;Scikit-learn,Java,Logic,Apply,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,7,Foundations of Embeddings,Elective,Embeddings;RNN;Trees;SQL;Graphs;Regression,Docker,Java,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,5,Applied Neural Networks,Core,Neural Networks;HDFS;Transformers,SQL;C++;OpenCV,Java,Basic Math,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,5,Introduction to Spark,Core,Spark;Clustering;Dynamic Programming;Tokenization;Normalization,AWS;TensorFlow;PyTorch,C++,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,6,Advanced Cloud Computing,Core,Cloud Computing;Graphs;Linked Lists,Spark;Git;SQL,Java,Logic,Create,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,4,Introduction to Trees,Elective,Trees;Embeddings;Normalization;Linked Lists;EDA;Dynamic Programming,PyTorch;Docker;AWS,Python,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,1,Foundations of Cloud Computing,Elective,Cloud Computing;Trees;Linked Lists;Indexing,NLTK;Java,C++,Probability,Create,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,3,Applied Transformers,Core,Transformers;SQL;Normalization;Visualization;Data Pipelines;Trees,OpenCV;Pandas;Git,C++,Logic,Create,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,4,Introduction to Deployment,Core,Deployment;Arrays;CNN,OpenCV;NLTK,C++,Statistics,Analyze,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,4,Foundations of Linked Lists,Core,Linked Lists;Data Pipelines;Indexing,HuggingFace;C++;SQL,Java,Logic,Understand,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,1,Applied Normalization,Core,Normalization;Clustering;Image Processing;Classification;Linked Lists;Dynamic Programming,Scikit-learn;SQL;NLTK,Java,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,5,Introduction to Image Processing,Core,Image Processing;Cloud Computing;Visualization,OpenCV,Java,Basic Math,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,7,Advanced Dynamic Programming,Elective,Dynamic Programming;CNN;SQL;Regression;Image Processing;Tokenization,Pandas,C++,Logic,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,3,Advanced Clustering,Core,Clustering;Neural Networks;Classification;RNN;HDFS;Trees,Pandas;TensorFlow,Java,Statistics,Understand,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,4,Advanced Classification,Elective,Classification;RNN;CNN;Arrays;Deployment;HDFS,Java;NLTK;HuggingFace,C++,Logic,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,8,Applied CNN,Core,CNN;Neural Networks;Transformers;Embeddings;Tokenization,Java;HuggingFace,Java,Probability,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,4,Applied Arrays,Core,Arrays;Neural Networks;Image Processing;Cloud Computing,NLTK;PyTorch;Scikit-learn,Java,Logic,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,6,Advanced Deployment,Elective,Deployment;Tokenization;Visualization;HDFS;Normalization,NLTK,C++,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,2,Foundations of Deployment,Core,Deployment;Arrays;Indexing,Pandas,C++,Linear Algebra,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,8,Applied Arrays,Core,Arrays;Deployment;Image Processing;EDA;Indexing;Visualization,Git,Python,Basic Math,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,2,Foundations of Clustering,Elective,Clustering;Classification;Spark;Embeddings,Pandas;TensorFlow,Java,Statistics,Apply,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,5,Introduction to HDFS,Core,HDFS;Deployment;Linked Lists,PyTorch,Python,Discrete Math,Apply,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,7,Introduction to Cloud Computing,Elective,Cloud Computing;Graphs;Embeddings;Linked Lists;Clustering,Spark,C++,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,1,Foundations of RNN,Elective,RNN;Arrays;Classification;Cloud Computing,HuggingFace,C++,Logic,Apply,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,7,Foundations of SQL,Elective,SQL;Deployment;Visualization;Dynamic Programming;EDA,Java;Git;NLTK,C++,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,7,Introduction to Arrays,Core,Arrays;HDFS;Neural Networks;Normalization;Tokenization,TensorFlow,Python,Logic,Create,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,5,Introduction to EDA,Elective,EDA;Trees;Neural Networks;Dynamic Programming,NLTK;HuggingFace,Java,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,8,Introduction to Deployment,Core,Deployment;Neural Networks;Graphs;Dynamic Programming;Trees,PyTorch,C++,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,6,Introduction to Arrays,Core,Arrays;CNN;Indexing;SQL;Trees;Image Processing,AWS,C++,Probability,Analyze,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,3,Applied Regression,Core,Regression;Indexing;Neural Networks,Scikit-learn;Docker,Python,Basic Math,Create,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,4,Introduction to Graphs,Core,Graphs;Dynamic Programming;CNN;Arrays;SQL;RNN,PyTorch;HuggingFace;TensorFlow,Java,Probability,Apply,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,3,Introduction to RNN,Elective,RNN;CNN;EDA;HDFS;Tokenization;Cloud Computing,TensorFlow,C++,Logic,Apply,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,3,Foundations of Visualization,Elective,Visualization;Normalization;EDA,Docker,Python,Statistics,Apply,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,4,Introduction to Data Pipelines,Elective,Data Pipelines;Dynamic Programming;EDA;Indexing;SQL,Docker,Python,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,2,Introduction to Deployment,Elective,Deployment;Clustering;Data Pipelines,TensorFlow;Python;OpenCV,Python,Statistics,Understand,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,5,Introduction to Embeddings,Core,Embeddings;Visualization;Image Processing;Cloud Computing,AWS;SQL;Docker,Java,Discrete Math,Create,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,7,Introduction to Graphs,Elective,Graphs;Visualization;Dynamic Programming,Scikit-learn;TensorFlow,Java,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,8,Foundations of Trees,Core,Trees;CNN;Linked Lists;EDA;Graphs,Pandas,Python,Linear Algebra,Apply,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,6,Advanced Normalization,Elective,Normalization;Clustering;SQL;HDFS;Regression;Data Pipelines,OpenCV;PyTorch;Pandas,Python,Statistics,Create,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,4,Applied Neural Networks,Core,Neural Networks;Deployment;EDA;Trees,Java;HuggingFace;Git,Java,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,8,Applied Spark,Core,Spark;SQL;Cloud Computing;Graphs;Transformers,Pandas;Docker,Python,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,5,Advanced Regression,Elective,Regression;Transformers;EDA,Git,Java,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,3,Applied Tokenization,Core,Tokenization;CNN;Dynamic Programming;Regression,Pandas;Docker,Java,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,8,Applied Data Pipelines,Core,Data Pipelines;Tokenization;Indexing;Normalization;Visualization;Regression,AWS,Java,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,8,Introduction to Image Processing,Core,Image Processing;Embeddings;Graphs;Cloud Computing;EDA;Neural Networks,Pandas;TensorFlow;Git,Java,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,1,Applied Neural Networks,Elective,Neural Networks;Transformers;Trees;Normalization;Graphs;Clustering,HuggingFace,C++,Logic,Apply,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,4,Applied Cloud Computing,Elective,Cloud Computing;Transformers;Image Processing,AWS;Git,Python,Probability,Understand,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,7,Applied Neural Networks,Core,Neural Networks;HDFS;Dynamic Programming,Pandas;Python;SQL,Python,Basic Math,Create,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,5,Introduction to SQL,Elective,SQL;Normalization;Trees;HDFS;EDA;Deployment,NLTK;Scikit-learn;Spark,Python,Discrete Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,6,Applied Image Processing,Elective,Image Processing;SQL;Classification,Pandas;SQL,Java,Logic,Apply,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,8,Introduction to Data Pipelines,Core,Data Pipelines;Deployment;Linked Lists;Graphs;HDFS,C++;Java,Java,Linear Algebra,Apply,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,3,Advanced Trees,Elective,Trees;HDFS;Transformers;Neural Networks;Data Pipelines,Python;C++;PyTorch,Python,Basic Math,Understand,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,1,Foundations of Tokenization,Core,Tokenization;Trees;Dynamic Programming;Cloud Computing,Git,Python,Probability,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,3,Advanced Trees,Core,Trees;Clustering;SQL;Deployment;Graphs;HDFS,TensorFlow;Scikit-learn,C++,Logic,Understand,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,3,Advanced Transformers,Core,Transformers;Visualization;Classification;HDFS;Dynamic Programming;Indexing,OpenCV;Docker;SQL,Python,Basic Math,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,6,Applied Clustering,Core,Clustering;Neural Networks;HDFS;Trees,Git,Python,Probability,Apply,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,4,Foundations of CNN,Core,CNN;HDFS;Linked Lists;Clustering;Tokenization;SQL,SQL,Java,Probability,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,7,Foundations of Image Processing,Elective,Image Processing;Data Pipelines;Regression;Deployment;Tokenization,C++,C++,Discrete Math,Understand,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,5,Foundations of Indexing,Core,Indexing;EDA;SQL;Trees;HDFS;Image Processing,AWS;Python;Scikit-learn,Python,Linear Algebra,Analyze,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,2,Introduction to EDA,Core,EDA;Indexing;Visualization;Clustering;Linked Lists,Java,Java,Basic Math,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,3,Applied Regression,Core,Regression;Tokenization;Transformers,Git;HuggingFace;NLTK,Python,Probability,Understand,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,7,Foundations of Embeddings,Elective,Embeddings;Trees;Neural Networks;EDA;Cloud Computing,Java;Docker;Pandas,Python,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,2,Foundations of Clustering,Elective,Clustering;Visualization;Embeddings,C++,Java,Statistics,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,1,Foundations of Clustering,Core,Clustering;RNN;Deployment;Indexing;Visualization;Neural Networks,AWS,C++,Logic,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,8,Applied Deployment,Core,Deployment;CNN;RNN;Trees;Image Processing,C++;TensorFlow,Java,Probability,Create,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,4,Applied Arrays,Core,Arrays;Indexing;Clustering;Image Processing,OpenCV;Pandas,Python,Statistics,Analyze,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,4,Applied Tokenization,Elective,Tokenization;Linked Lists;Dynamic Programming;Neural Networks;Trees;Visualization,Spark,Python,Discrete Math,Understand,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,7,Introduction to Cloud Computing,Elective,Cloud Computing;Linked Lists;Indexing,Python;SQL;Scikit-learn,Python,Probability,Create,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,2,Introduction to Dynamic Programming,Elective,Dynamic Programming;Deployment;Cloud Computing;Graphs,Java,Java,Discrete Math,Analyze,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,5,Foundations of Neural Networks,Core,Neural Networks;Graphs;Trees;Regression;CNN;Spark,SQL,Java,Statistics,Understand,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,5,Advanced Arrays,Core,Arrays;SQL;Normalization;Image Processing,Git;SQL;Java,C++,Discrete Math,Apply,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,7,Introduction to Data Pipelines,Core,Data Pipelines;HDFS;Trees;Cloud Computing;Neural Networks,C++,C++,Probability,Understand,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,1,Advanced Cloud Computing,Elective,Cloud Computing;Indexing;Visualization;SQL,C++;PyTorch,C++,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,3,Foundations of Spark,Core,Spark;Clustering;HDFS,Docker;PyTorch,Java,Statistics,Apply,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,4,Applied SQL,Elective,SQL;EDA;Transformers,Git;HuggingFace,Java,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,4,Advanced Deployment,Core,Deployment;Neural Networks;Linked Lists,Git;TensorFlow,C++,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,1,Applied Cloud Computing,Core,Cloud Computing;SQL;Transformers;Regression,SQL,Python,Basic Math,Analyze,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,3,Advanced Tokenization,Core,Tokenization;Image Processing;CNN;Regression,C++;Java,Python,Statistics,Understand,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,4,Advanced RNN,Core,RNN;EDA;Regression;Linked Lists,Python,Python,Logic,Analyze,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,7,Introduction to RNN,Elective,RNN;CNN;Dynamic Programming,NLTK,C++,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,3,Foundations of CNN,Core,CNN;Visualization;EDA;Deployment;Dynamic Programming;Regression,C++;NLTK;AWS,Python,Probability,Apply,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,2,Applied Dynamic Programming,Elective,Dynamic Programming;RNN;Trees;Clustering;Transformers;Visualization,OpenCV,C++,Probability,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,2,Introduction to Neural Networks,Elective,Neural Networks;Graphs;Visualization;Arrays;Linked Lists,Docker;NLTK,Java,Probability,Create,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,8,Foundations of Regression,Elective,Regression;Normalization;Trees;Linked Lists,C++;TensorFlow,C++,Statistics,Apply,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,2,Foundations of Spark,Elective,Spark;Tokenization;EDA;Arrays;Indexing,Python;AWS;PyTorch,Python,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,5,Applied CNN,Core,CNN;Clustering;Graphs;Linked Lists;SQL,Git;Pandas;Docker,Java,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,8,Introduction to Graphs,Elective,Graphs;Arrays;Classification;Regression,Scikit-learn;Java;Docker,Java,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,7,Applied Transformers,Core,Transformers;SQL;Regression;Normalization,Scikit-learn,Java,Logic,Understand,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,2,Foundations of Data Pipelines,Elective,Data Pipelines;Transformers;Image Processing,HuggingFace;AWS,Python,Statistics,Create,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,8,Advanced Trees,Core,Trees;SQL;EDA;Linked Lists;Embeddings,Spark;Git;HuggingFace,Java,Linear Algebra,Apply,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,4,Applied Linked Lists,Elective,Linked Lists;Indexing;Trees;Data Pipelines,SQL;Pandas,Python,Discrete Math,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,7,Introduction to Neural Networks,Core,Neural Networks;Embeddings;Normalization;Arrays;EDA,AWS;Git;HuggingFace,C++,Logic,Understand,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,2,Advanced Image Processing,Elective,Image Processing;Transformers;Indexing;Neural Networks;SQL,Docker;AWS;Pandas,Java,Linear Algebra,Create,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,6,Applied Linked Lists,Elective,Linked Lists;Visualization;Tokenization;Neural Networks,C++;TensorFlow,Python,Basic Math,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,5,Introduction to Deployment,Elective,Deployment;RNN;Neural Networks;Indexing;Spark;Trees,Docker,C++,Logic,Apply,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,7,Advanced Deployment,Core,Deployment;Embeddings;Cloud Computing;Arrays,SQL,Java,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,5,Introduction to Normalization,Core,Normalization;Embeddings;SQL;HDFS;Graphs,C++;SQL;TensorFlow,Java,Logic,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,5,Advanced CNN,Core,CNN;Arrays;SQL,Python,Python,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,7,Foundations of Deployment,Core,Deployment;Data Pipelines;Arrays,Spark;Python,Python,Probability,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,5,Foundations of SQL,Core,SQL;Transformers;Normalization;Neural Networks;Classification;EDA,OpenCV;Git,Python,Basic Math,Analyze,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,5,Applied Data Pipelines,Core,Data Pipelines;Graphs;Tokenization;Trees;RNN,OpenCV;TensorFlow,C++,Logic,Apply,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,7,Introduction to Data Pipelines,Core,Data Pipelines;Dynamic Programming;Visualization;Arrays;HDFS,Scikit-learn;Spark,Python,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,4,Advanced Data Pipelines,Elective,Data Pipelines;Transformers;Embeddings;CNN;Regression;Image Processing,Scikit-learn,Python,Logic,Apply,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,2,Applied Transformers,Elective,Transformers;Clustering;Visualization;CNN,HuggingFace;TensorFlow,C++,Statistics,Understand,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,2,Advanced Classification,Elective,Classification;Embeddings;Graphs;Data Pipelines;SQL;Visualization,PyTorch;C++,Java,Logic,Create,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,3,Foundations of Tokenization,Elective,Tokenization;RNN;HDFS,TensorFlow,Java,Linear Algebra,Apply,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,3,Foundations of Deployment,Core,Deployment;Trees;Dynamic Programming;Spark;Indexing;HDFS,PyTorch;Docker,Python,Probability,Understand,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,4,Advanced Data Pipelines,Core,Data Pipelines;Arrays;HDFS,SQL;Spark;NLTK,Java,Logic,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,1,Introduction to CNN,Elective,CNN;Normalization;Visualization;Embeddings;Spark,TensorFlow;PyTorch;OpenCV,C++,Linear Algebra,Create,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,4,Foundations of Classification,Elective,Classification;Visualization;Arrays;Cloud Computing,Python;Java;TensorFlow,Python,Basic Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,1,Introduction to Data Pipelines,Elective,Data Pipelines;Graphs;HDFS,C++,Java,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,3,Applied EDA,Core,EDA;Data Pipelines;HDFS;Arrays,PyTorch;OpenCV,Java,Discrete Math,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,2,Foundations of Classification,Elective,Classification;Spark;Deployment;Neural Networks;Embeddings;EDA,NLTK;PyTorch,C++,Basic Math,Create,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,1,Foundations of Data Pipelines,Core,Data Pipelines;Trees;Graphs,OpenCV;Docker;Python,Python,Probability,Apply,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,5,Foundations of Linked Lists,Core,Linked Lists;Graphs;Regression;Deployment;CNN;Transformers,TensorFlow;PyTorch;NLTK,C++,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,8,Applied Visualization,Elective,Visualization;Trees;Transformers;RNN;Regression,PyTorch,Python,Statistics,Create,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,3,Introduction to Dynamic Programming,Elective,Dynamic Programming;EDA;Visualization,Pandas,Python,Basic Math,Create,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,7,Introduction to Spark,Core,Spark;Arrays;Data Pipelines;Visualization;Dynamic Programming,Spark;Docker,C++,Probability,Analyze,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,4,Introduction to Embeddings,Core,Embeddings;EDA;Spark;Graphs;Indexing,NLTK;SQL;Docker,Python,Logic,Understand,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,3,Introduction to Tokenization,Elective,Tokenization;Regression;Trees;Deployment;RNN;Clustering,Scikit-learn;C++,C++,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,8,Foundations of Tokenization,Core,Tokenization;Normalization;RNN,Docker,Java,Statistics,Understand,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,1,Applied Spark,Elective,Spark;HDFS;CNN,Git;SQL;OpenCV,C++,Linear Algebra,Create,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,8,Applied EDA,Elective,EDA;Normalization;Graphs;Deployment;Data Pipelines,C++,Python,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,3,Applied Graphs,Core,Graphs;Neural Networks;Spark;Classification;Data Pipelines;Deployment,SQL;Docker,Java,Discrete Math,Understand,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,3,Advanced Arrays,Core,Arrays;Embeddings;Linked Lists;Image Processing;Indexing;Cloud Computing,Spark;Git,C++,Statistics,Analyze,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,7,Applied Neural Networks,Elective,Neural Networks;SQL;RNN;CNN,HuggingFace;Python,Python,Basic Math,Apply,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,5,Foundations of Data Pipelines,Elective,Data Pipelines;Dynamic Programming;EDA;HDFS;Regression,Git;NLTK;OpenCV,Python,Statistics,Create,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,5,Applied Arrays,Core,Arrays;Embeddings;Graphs;Deployment;SQL;Dynamic Programming,OpenCV,Java,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,1,Advanced Classification,Elective,Classification;Deployment;Image Processing;Linked Lists;Transformers,Java;AWS,C++,Logic,Analyze,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,1,Introduction to SQL,Core,SQL;Indexing;Data Pipelines;RNN;Image Processing;Linked Lists,NLTK,Python,Basic Math,Analyze,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,4,Foundations of CNN,Elective,CNN;Normalization;Regression;Data Pipelines,Python,Python,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,5,Advanced Regression,Elective,Regression;Cloud Computing;Neural Networks;Arrays,Docker;NLTK,Python,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,6,Advanced EDA,Elective,EDA;RNN;Embeddings,Python,Python,Logic,Create,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,4,Introduction to Data Pipelines,Core,Data Pipelines;RNN;Transformers;CNN,HuggingFace,C++,Basic Math,Analyze,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,4,Applied Data Pipelines,Core,Data Pipelines;RNN;SQL,PyTorch,Python,Probability,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,5,Foundations of RNN,Core,RNN;Embeddings;Trees;Graphs,HuggingFace,C++,Basic Math,Apply,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,2,Advanced Image Processing,Core,Image Processing;EDA;Visualization;Deployment,OpenCV;Pandas,Java,Basic Math,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,2,Introduction to Regression,Elective,Regression;Neural Networks;Image Processing,AWS,Java,Basic Math,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,1,Foundations of Data Pipelines,Core,Data Pipelines;Graphs;Image Processing;Arrays;HDFS;Spark,HuggingFace,Java,Logic,Understand,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,5,Introduction to CNN,Core,CNN;Deployment;Normalization,PyTorch;Pandas,Python,Linear Algebra,Apply,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,5,Foundations of CNN,Core,CNN;Data Pipelines;Visualization;HDFS,C++;Git,C++,Logic,Create,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,2,Applied Classification,Core,Classification;Visualization;Transformers;Indexing;HDFS,Python;Spark;Pandas,Python,Discrete Math,Apply,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,1,Introduction to HDFS,Elective,HDFS;Image Processing;Trees;CNN;EDA;Neural Networks,SQL,Java,Linear Algebra,Apply,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,2,Applied RNN,Elective,RNN;Tokenization;Normalization;Spark,Scikit-learn;NLTK;AWS,Java,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,4,Foundations of Neural Networks,Core,Neural Networks;Transformers;Dynamic Programming;Data Pipelines;RNN;Tokenization,Docker;TensorFlow,Python,Logic,Understand,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,3,Introduction to Neural Networks,Core,Neural Networks;Visualization;HDFS;Trees,Java;C++;Git,C++,Logic,Analyze,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,8,Foundations of Transformers,Elective,Transformers;SQL;Clustering;Deployment,NLTK;Pandas;Scikit-learn,Java,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,3,Applied Normalization,Core,Normalization;Regression;Cloud Computing;Data Pipelines,NLTK,C++,Statistics,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,6,Foundations of Linked Lists,Elective,Linked Lists;Data Pipelines;Classification;Embeddings,PyTorch;Docker,C++,Basic Math,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,3,Applied HDFS,Elective,HDFS;SQL;Transformers;Cloud Computing;Deployment;Trees,Scikit-learn;PyTorch;SQL,Java,Statistics,Understand,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,8,Applied Clustering,Core,Clustering;Trees;Embeddings;HDFS,SQL;Python,Python,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,6,Foundations of Tokenization,Core,Tokenization;Data Pipelines;Classification,Python;OpenCV;PyTorch,Python,Logic,Apply,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,1,Applied Linked Lists,Core,Linked Lists;Regression;Neural Networks;Embeddings,AWS;Spark,C++,Statistics,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,4,Introduction to Spark,Core,Spark;Dynamic Programming;Cloud Computing;Regression;Deployment;Embeddings,Python;NLTK,Python,Linear Algebra,Create,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,2,Advanced Classification,Elective,Classification;Embeddings;Data Pipelines,Pandas;Python,Python,Logic,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,2,Introduction to Tokenization,Elective,Tokenization;Data Pipelines;Dynamic Programming,Git;Pandas;C++,Java,Discrete Math,Create,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,8,Foundations of Transformers,Elective,Transformers;Cloud Computing;EDA;Visualization;Graphs;Indexing,Scikit-learn,Python,Logic,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,1,Applied Cloud Computing,Elective,Cloud Computing;Embeddings;Graphs,C++;PyTorch;OpenCV,Java,Discrete Math,Apply,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,5,Introduction to Image Processing,Core,Image Processing;Indexing;Cloud Computing;Transformers;Spark,OpenCV;PyTorch,Java,Logic,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,6,Applied Visualization,Core,Visualization;Dynamic Programming;Data Pipelines;Graphs;Clustering;Normalization,Python;Java;SQL,Python,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,2,Foundations of Tokenization,Core,Tokenization;Spark;Indexing;Trees,Scikit-learn,Python,Statistics,Create,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,5,Applied Deployment,Core,Deployment;Regression;HDFS,Docker;C++,C++,Logic,Apply,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,1,Introduction to Clustering,Elective,Clustering;HDFS;Arrays;Regression;Trees,HuggingFace;PyTorch,Python,Linear Algebra,Understand,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,2,Advanced Image Processing,Core,Image Processing;CNN;Visualization,Spark;AWS;TensorFlow,Java,Statistics,Understand,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,7,Applied Image Processing,Elective,Image Processing;Trees;Embeddings,TensorFlow;Java,Java,Logic,Create,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,6,Advanced Data Pipelines,Elective,Data Pipelines;Normalization;Cloud Computing;Arrays;Tokenization;Graphs,Java;PyTorch,Java,Probability,Understand,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,5,Introduction to CNN,Elective,CNN;Trees;SQL;Data Pipelines,Pandas;TensorFlow;Java,Java,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,4,Applied Visualization,Core,Visualization;Classification;Clustering;EDA;Neural Networks;Deployment,SQL,C++,Discrete Math,Understand,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,8,Applied Deployment,Elective,Deployment;Image Processing;Linked Lists,TensorFlow;AWS,C++,Logic,Analyze,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,3,Advanced Embeddings,Elective,Embeddings;Indexing;Tokenization,C++;Git;TensorFlow,C++,Basic Math,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,1,Advanced Data Pipelines,Elective,Data Pipelines;Classification;SQL,Java;TensorFlow;Pandas,C++,Probability,Create,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,6,Introduction to Tokenization,Core,Tokenization;Indexing;Classification;EDA,TensorFlow;Pandas,Python,Linear Algebra,Apply,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,5,Introduction to Image Processing,Core,Image Processing;Indexing;SQL;Classification,HuggingFace,C++,Statistics,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,6,Advanced CNN,Elective,CNN;Neural Networks;Image Processing;Cloud Computing;Linked Lists;SQL,NLTK,Java,Basic Math,Understand,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,6,Advanced Transformers,Core,Transformers;Image Processing;Neural Networks;Arrays;Indexing,TensorFlow,Java,Probability,Analyze,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,8,Introduction to Trees,Core,Trees;SQL;Spark;CNN;Normalization;Dynamic Programming,OpenCV,C++,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,6,Introduction to EDA,Elective,EDA;Neural Networks;Spark;HDFS;SQL,Spark;Docker,C++,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,4,Foundations of Visualization,Core,Visualization;EDA;Trees;Classification;Regression,Java;Spark,Java,Logic,Understand,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,3,Introduction to HDFS,Core,HDFS;SQL;CNN,SQL,C++,Logic,Apply,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,6,Introduction to Tokenization,Elective,Tokenization;Normalization;Image Processing;Neural Networks;Dynamic Programming,Git;Python;AWS,Python,Probability,Create,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,2,Applied CNN,Elective,CNN;Transformers;Indexing;Neural Networks;Dynamic Programming;Deployment,C++,Java,Logic,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,8,Applied Arrays,Core,Arrays;Deployment;Indexing;CNN;Spark,HuggingFace,Java,Logic,Create,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,3,Applied SQL,Elective,SQL;Clustering;Neural Networks;Trees;Indexing;Visualization,HuggingFace;Spark;AWS,Python,Basic Math,Analyze,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,2,Introduction to Dynamic Programming,Core,Dynamic Programming;CNN;Graphs;HDFS,AWS;Docker,Java,Discrete Math,Apply,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,1,Advanced Graphs,Core,Graphs;CNN;Neural Networks;Dynamic Programming,Docker;NLTK;C++,Java,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,8,Foundations of Normalization,Elective,Normalization;EDA;Linked Lists;RNN;Trees,C++,C++,Linear Algebra,Analyze,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,1,Foundations of Deployment,Core,Deployment;EDA;Clustering,HuggingFace;Docker,Java,Basic Math,Understand,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,4,Introduction to SQL,Elective,SQL;Data Pipelines;CNN;RNN;Regression;Linked Lists,Spark;Git;Pandas,C++,Probability,Understand,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,2,Foundations of HDFS,Elective,HDFS;Indexing;RNN;Arrays,HuggingFace,C++,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,8,Applied Transformers,Core,Transformers;Deployment;Trees;Clustering,Docker,C++,Probability,Apply,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,2,Advanced Tokenization,Core,Tokenization;Clustering;RNN;Image Processing,HuggingFace;TensorFlow;Spark,Python,Statistics,Analyze,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,5,Advanced Tokenization,Elective,Tokenization;EDA;Normalization,Scikit-learn;Git;NLTK,Java,Basic Math,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,3,Introduction to Embeddings,Core,Embeddings;Dynamic Programming;Normalization,Pandas;Scikit-learn,Python,Logic,Create,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,1,Advanced Deployment,Elective,Deployment;Spark;Clustering;RNN;Visualization,OpenCV,Python,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,6,Foundations of Graphs,Core,Graphs;Embeddings;Data Pipelines,C++,C++,Statistics,Apply,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,7,Foundations of Embeddings,Core,Embeddings;Spark;EDA;Cloud Computing;Neural Networks;Linked Lists,SQL;AWS,Python,Statistics,Understand,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,1,Foundations of Image Processing,Core,Image Processing;Visualization;Indexing;Transformers;EDA,Pandas,Java,Discrete Math,Apply,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,2,Introduction to Image Processing,Core,Image Processing;SQL;Classification;Embeddings,SQL;AWS;OpenCV,Python,Logic,Analyze,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,7,Introduction to Regression,Elective,Regression;Image Processing;SQL,TensorFlow;OpenCV;Python,Python,Probability,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,7,Applied Spark,Elective,Spark;Clustering;Cloud Computing;Image Processing;Classification,HuggingFace;Git,Java,Statistics,Understand,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,5,Applied Embeddings,Core,Embeddings;Dynamic Programming;CNN,Scikit-learn,Python,Probability,Apply,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,8,Introduction to Dynamic Programming,Core,Dynamic Programming;Neural Networks;Transformers;Cloud Computing;Clustering,Scikit-learn,Python,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,8,Foundations of Spark,Core,Spark;HDFS;CNN,NLTK,Java,Probability,Create,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,2,Foundations of Visualization,Elective,Visualization;HDFS;Spark;Arrays,HuggingFace;OpenCV;PyTorch,Python,Logic,Apply,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,4,Foundations of Linked Lists,Core,Linked Lists;Data Pipelines;Visualization;SQL,HuggingFace;AWS,Java,Probability,Create,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,6,Foundations of Tokenization,Elective,Tokenization;Cloud Computing;Visualization,Git,Python,Statistics,Apply,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,4,Introduction to SQL,Elective,SQL;HDFS;Cloud Computing;Classification;Image Processing;Spark,Git;SQL;Pandas,Python,Logic,Understand,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,7,Introduction to Transformers,Core,Transformers;Deployment;Classification;RNN;Visualization;Spark,C++;HuggingFace;Scikit-learn,Java,Discrete Math,Apply,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,6,Foundations of Deployment,Elective,Deployment;Visualization;Trees;Graphs,C++;SQL;AWS,Python,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,1,Advanced Classification,Core,Classification;Visualization;Image Processing;Embeddings;Deployment,Git;Docker,Java,Logic,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,1,Applied Classification,Elective,Classification;EDA;Spark;Neural Networks;Linked Lists,OpenCV;C++,C++,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,4,Foundations of Embeddings,Core,Embeddings;EDA;Graphs;RNN;Tokenization;Spark,Java;Python;SQL,Python,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,7,Applied Arrays,Elective,Arrays;Transformers;Data Pipelines;HDFS,SQL;Git,C++,Logic,Analyze,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,6,Advanced Data Pipelines,Elective,Data Pipelines;Dynamic Programming;Trees;SQL;Embeddings;Spark,OpenCV;SQL;PyTorch,Java,Logic,Analyze,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,3,Advanced HDFS,Elective,HDFS;Dynamic Programming;Cloud Computing;Image Processing,HuggingFace;SQL;Python,Python,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,2,Introduction to RNN,Elective,RNN;Dynamic Programming;Visualization;Arrays,Spark;PyTorch,C++,Linear Algebra,Understand,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,1,Introduction to Spark,Elective,Spark;Cloud Computing;Clustering;Data Pipelines;Arrays,Java;NLTK,C++,Statistics,Create,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,3,Advanced Clustering,Core,Clustering;Linked Lists;Indexing;Deployment,Spark,C++,Discrete Math,Apply,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,8,Applied Normalization,Elective,Normalization;Clustering;Indexing;SQL;Deployment,AWS,Python,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,8,Advanced Linked Lists,Elective,Linked Lists;Clustering;Embeddings;Image Processing;SQL;Deployment,PyTorch;Git;HuggingFace,Java,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,3,Advanced CNN,Core,CNN;Spark;Linked Lists;Embeddings;Dynamic Programming;Normalization,Docker;Java;NLTK,Java,Statistics,Analyze,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,3,Foundations of Cloud Computing,Core,Cloud Computing;EDA;Classification;Normalization;Trees;Neural Networks,NLTK;OpenCV,C++,Basic Math,Create,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,2,Advanced Visualization,Core,Visualization;Embeddings;Spark;Regression;SQL;Image Processing,C++;HuggingFace,C++,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,5,Introduction to CNN,Elective,CNN;HDFS;Regression;Graphs;Dynamic Programming;Classification,AWS,Java,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,4,Foundations of Cloud Computing,Core,Cloud Computing;Data Pipelines;Tokenization;Normalization,Docker;Java,Python,Probability,Apply,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,3,Applied HDFS,Elective,HDFS;Transformers;Linked Lists,Pandas,C++,Discrete Math,Understand,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,3,Applied Spark,Core,Spark;Data Pipelines;EDA;Cloud Computing;Image Processing,Docker,C++,Probability,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,2,Advanced Image Processing,Core,Image Processing;Trees;CNN;Tokenization;Dynamic Programming;Graphs,Pandas;Scikit-learn;TensorFlow,Python,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,2,Applied Visualization,Core,Visualization;EDA;Spark;CNN;Indexing;Deployment,Scikit-learn;Git,Python,Logic,Create,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,8,Foundations of Regression,Core,Regression;Spark;Clustering;CNN;Classification;Arrays,C++,Python,Statistics,Create,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,6,Applied Arrays,Elective,Arrays;HDFS;Classification;EDA,Scikit-learn;HuggingFace,C++,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,1,Introduction to Classification,Core,Classification;RNN;Data Pipelines;Tokenization,HuggingFace;C++,Python,Statistics,Analyze,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,7,Advanced Embeddings,Elective,Embeddings;CNN;Cloud Computing,OpenCV;TensorFlow;Git,Java,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,1,Applied SQL,Core,SQL;HDFS;Image Processing;Regression;Cloud Computing,PyTorch;Python;AWS,Python,Probability,Create,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,4,Foundations of Normalization,Elective,Normalization;CNN;Classification;Embeddings;Regression,TensorFlow,Python,Discrete Math,Create,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,4,Advanced Tokenization,Core,Tokenization;Visualization;Embeddings;CNN;Deployment,Python;HuggingFace,Python,Basic Math,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,2,Foundations of CNN,Elective,CNN;Linked Lists;Data Pipelines,Pandas;Java;TensorFlow,C++,Logic,Analyze,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,6,Applied Classification,Core,Classification;CNN;Neural Networks;Image Processing,HuggingFace;Docker,C++,Probability,Understand,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,2,Advanced Image Processing,Core,Image Processing;Transformers;RNN;Neural Networks,NLTK,C++,Probability,Analyze,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,1,Introduction to Arrays,Elective,Arrays;Tokenization;Data Pipelines;Linked Lists,PyTorch,C++,Basic Math,Create,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,5,Advanced Classification,Core,Classification;EDA;Deployment;Data Pipelines;Image Processing,Spark,Python,Statistics,Understand,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,8,Applied Clustering,Elective,Clustering;Deployment;Dynamic Programming;Spark;Neural Networks;Transformers,Python;NLTK,Python,Statistics,Understand,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,2,Foundations of Tokenization,Elective,Tokenization;Normalization;Regression;CNN;Deployment,AWS;Spark,Python,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,2,Advanced Image Processing,Elective,Image Processing;Normalization;SQL;Cloud Computing;Indexing,AWS,Java,Discrete Math,Analyze,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,7,Introduction to Cloud Computing,Elective,Cloud Computing;RNN;Image Processing;Clustering;Regression;Trees,Spark;NLTK;AWS,Python,Discrete Math,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,7,Foundations of Spark,Core,Spark;Graphs;Data Pipelines,HuggingFace;Pandas;PyTorch,C++,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,3,Applied Image Processing,Elective,Image Processing;CNN;SQL;Spark;Cloud Computing;Normalization,SQL,Java,Basic Math,Analyze,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,1,Foundations of Dynamic Programming,Elective,Dynamic Programming;CNN;Linked Lists;Transformers;Image Processing;EDA,NLTK,C++,Linear Algebra,Create,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,7,Introduction to EDA,Elective,EDA;SQL;Indexing;Image Processing;Classification,Python;Docker;Spark,Python,Statistics,Apply,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,3,Foundations of Arrays,Core,Arrays;Trees;HDFS;Dynamic Programming,Spark;Docker;OpenCV,Python,Statistics,Create,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,7,Introduction to Normalization,Core,Normalization;Embeddings;Indexing;Image Processing,PyTorch;TensorFlow,Python,Statistics,Apply,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,5,Introduction to Image Processing,Core,Image Processing;Cloud Computing;Transformers;Linked Lists;Data Pipelines;Visualization,NLTK;TensorFlow,C++,Basic Math,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,2,Applied Clustering,Core,Clustering;Tokenization;HDFS,OpenCV;Spark;Java,Java,Logic,Understand,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,8,Applied Indexing,Core,Indexing;Transformers;CNN;Regression;Linked Lists,Spark;AWS;NLTK,Python,Statistics,Apply,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,5,Applied CNN,Core,CNN;Tokenization;Trees,Git,Python,Probability,Analyze,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,2,Advanced Cloud Computing,Elective,Cloud Computing;Visualization;Dynamic Programming;Data Pipelines,TensorFlow;HuggingFace,C++,Logic,Understand,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,3,Advanced Tokenization,Core,Tokenization;Deployment;Indexing;SQL,OpenCV,Python,Basic Math,Analyze,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,5,Advanced Linked Lists,Elective,Linked Lists;Regression;Normalization,Docker;Scikit-learn,Python,Basic Math,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,3,Introduction to Arrays,Elective,Arrays;CNN;Normalization;SQL;RNN;Embeddings,C++;Java;Git,Java,Probability,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,7,Foundations of Deployment,Core,Deployment;Data Pipelines;Clustering;Visualization;Cloud Computing;Classification,TensorFlow;OpenCV;NLTK,C++,Discrete Math,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,2,Advanced Transformers,Core,Transformers;Clustering;CNN;Neural Networks;Classification;Linked Lists,AWS,Python,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,7,Introduction to Graphs,Elective,Graphs;EDA;Regression;Neural Networks,Docker;OpenCV,Java,Basic Math,Analyze,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,2,Advanced Deployment,Elective,Deployment;Linked Lists;SQL;RNN;Neural Networks,Python;Docker,Python,Linear Algebra,Create,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,7,Applied Spark,Elective,Spark;HDFS;Graphs;Normalization,Scikit-learn;Java;C++,C++,Statistics,Apply,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,1,Foundations of Data Pipelines,Elective,Data Pipelines;SQL;Neural Networks,NLTK,Java,Statistics,Create,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,2,Applied Arrays,Elective,Arrays;SQL;EDA;Deployment,Java;AWS,Java,Discrete Math,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,6,Advanced Normalization,Elective,Normalization;Deployment;CNN,SQL;Python;Git,Python,Basic Math,Create,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,6,Advanced Trees,Elective,Trees;HDFS;Normalization;Classification;Dynamic Programming;Linked Lists,C++,Java,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,8,Introduction to Linked Lists,Core,Linked Lists;RNN;Visualization,PyTorch,Python,Logic,Apply,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,3,Foundations of HDFS,Elective,HDFS;Arrays;Tokenization;Spark;Linked Lists;Clustering,OpenCV;Python;C++,Python,Discrete Math,Create,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,2,Applied Graphs,Elective,Graphs;Tokenization;Spark,SQL;Java;HuggingFace,Java,Discrete Math,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,4,Introduction to Cloud Computing,Core,Cloud Computing;Regression;RNN,Java,Python,Probability,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,1,Foundations of Graphs,Core,Graphs;HDFS;Spark;SQL,C++,C++,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,8,Foundations of Classification,Core,Classification;Dynamic Programming;HDFS;Neural Networks,Docker;PyTorch;SQL,Python,Statistics,Understand,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,5,Applied Indexing,Core,Indexing;Arrays;Image Processing;Clustering;Classification,Git,Java,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,4,Foundations of Dynamic Programming,Elective,Dynamic Programming;Data Pipelines;Tokenization,Python;Spark,Python,Probability,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,6,Foundations of Linked Lists,Core,Linked Lists;Graphs;Deployment;Image Processing;Regression;HDFS,Docker,Python,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,6,Advanced Deployment,Elective,Deployment;Graphs;RNN;Clustering,SQL,C++,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,1,Applied Dynamic Programming,Elective,Dynamic Programming;Classification;Spark;Normalization;Regression;SQL,Python;Docker,Python,Linear Algebra,Analyze,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,1,Advanced Dynamic Programming,Core,Dynamic Programming;Graphs;Normalization;Indexing;Regression,SQL;Scikit-learn,C++,Statistics,Create,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,8,Foundations of Neural Networks,Elective,Neural Networks;Arrays;Indexing;Clustering;Data Pipelines;RNN,AWS;SQL,C++,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,1,Introduction to Embeddings,Core,Embeddings;SQL;Tokenization;Graphs;Normalization;EDA,Java,C++,Probability,Analyze,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,2,Foundations of Tokenization,Elective,Tokenization;Data Pipelines;CNN,NLTK,Java,Linear Algebra,Create,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,6,Applied EDA,Core,EDA;HDFS;Arrays;Visualization;Trees;SQL,TensorFlow;Git;C++,Python,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,6,Advanced Graphs,Core,Graphs;SQL;Transformers,AWS;C++,Python,Basic Math,Apply,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,4,Applied HDFS,Elective,HDFS;Tokenization;Visualization,Pandas;NLTK;SQL,Java,Logic,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,2,Applied Transformers,Elective,Transformers;Normalization;Tokenization;Embeddings;Graphs,NLTK;Git,Python,Probability,Understand,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,2,Foundations of SQL,Core,SQL;Regression;CNN,Java,Java,Linear Algebra,Apply,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,1,Foundations of Indexing,Elective,Indexing;Data Pipelines;Image Processing;Dynamic Programming;Tokenization,PyTorch;Docker,C++,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,6,Introduction to Cloud Computing,Elective,Cloud Computing;RNN;HDFS;EDA;Visualization;Tokenization,OpenCV;NLTK;Git,Python,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,5,Introduction to Tokenization,Core,Tokenization;Transformers;CNN;Deployment,Python,Python,Logic,Apply,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,5,Applied Regression,Core,Regression;EDA;Data Pipelines;Dynamic Programming,SQL,Java,Probability,Analyze,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,1,Advanced Transformers,Elective,Transformers;Dynamic Programming;Normalization;Image Processing;Regression,Scikit-learn;Java;C++,Java,Linear Algebra,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,6,Introduction to Tokenization,Elective,Tokenization;CNN;Deployment;Cloud Computing;Data Pipelines,HuggingFace,Python,Discrete Math,Create,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,2,Advanced Arrays,Core,Arrays;SQL;Spark;Clustering;Normalization,Java;TensorFlow,Java,Linear Algebra,Understand,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,8,Foundations of Embeddings,Elective,Embeddings;SQL;Classification,TensorFlow;AWS,Java,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,6,Introduction to CNN,Elective,CNN;Transformers;Normalization,Java;SQL;NLTK,Java,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,3,Introduction to Dynamic Programming,Core,Dynamic Programming;Classification;CNN,Pandas;Git,C++,Statistics,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,8,Introduction to Classification,Elective,Classification;Regression;SQL;CNN,Docker;C++;Scikit-learn,C++,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,5,Foundations of Graphs,Core,Graphs;HDFS;Data Pipelines;CNN;Indexing;Regression,Spark;NLTK,Java,Statistics,Understand,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,6,Applied Cloud Computing,Core,Cloud Computing;Indexing;Neural Networks;HDFS;Tokenization;Graphs,Git;NLTK,Python,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,3,Foundations of Regression,Core,Regression;Linked Lists;Neural Networks;Transformers;Indexing,Spark;TensorFlow;C++,Python,Linear Algebra,Understand,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,3,Advanced RNN,Core,RNN;Data Pipelines;CNN;Neural Networks;EDA,TensorFlow;Java;Git,C++,Logic,Analyze,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,8,Foundations of RNN,Elective,RNN;Regression;Graphs;Classification;Dynamic Programming;Embeddings,Pandas,Java,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,8,Applied CNN,Core,CNN;EDA;Transformers;Dynamic Programming;Normalization,Git;HuggingFace;TensorFlow,Python,Discrete Math,Apply,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,3,Foundations of CNN,Elective,CNN;Dynamic Programming;Classification;Trees,NLTK;HuggingFace,Java,Discrete Math,Apply,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,1,Advanced Graphs,Core,Graphs;Neural Networks;Linked Lists;Trees;CNN;Arrays,HuggingFace,C++,Basic Math,Analyze,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,3,Foundations of Cloud Computing,Core,Cloud Computing;Transformers;Regression;Embeddings;Deployment,AWS;SQL;Git,Python,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,1,Introduction to Classification,Core,Classification;Embeddings;EDA,TensorFlow;NLTK,C++,Probability,Create,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,4,Applied Graphs,Core,Graphs;RNN;Deployment;Normalization;EDA;Embeddings,Docker,C++,Probability,Create,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,5,Introduction to Spark,Elective,Spark;Visualization;CNN;Data Pipelines;Normalization;Clustering,PyTorch;Scikit-learn;Spark,C++,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,7,Advanced Embeddings,Core,Embeddings;Data Pipelines;Visualization;Trees;Graphs;Dynamic Programming,PyTorch;NLTK,Java,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,7,Applied Clustering,Elective,Clustering;Indexing;Visualization,Scikit-learn;HuggingFace,Java,Statistics,Create,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,5,Foundations of Deployment,Core,Deployment;Normalization;Graphs;Neural Networks,Docker;SQL,Python,Discrete Math,Understand,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,1,Foundations of SQL,Core,SQL;Spark;Data Pipelines;RNN,Scikit-learn,Python,Logic,Create,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,5,Introduction to Tokenization,Elective,Tokenization;Embeddings;Neural Networks;Image Processing;RNN;Data Pipelines,C++;HuggingFace;Spark,Java,Statistics,Create,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,1,Introduction to Image Processing,Elective,Image Processing;Data Pipelines;Deployment;CNN,Python;Docker;PyTorch,Python,Discrete Math,Create,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,8,Applied Image Processing,Elective,Image Processing;Regression;Embeddings;Linked Lists;SQL;Neural Networks,AWS;PyTorch,Java,Discrete Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,3,Applied Transformers,Elective,Transformers;Visualization;Cloud Computing;Arrays;Deployment,TensorFlow;PyTorch;Java,Java,Discrete Math,Apply,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,5,Applied EDA,Core,EDA;Trees;CNN,TensorFlow,Java,Basic Math,Create,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,7,Foundations of Arrays,Elective,Arrays;EDA;Tokenization;Cloud Computing;RNN,AWS;PyTorch,C++,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,6,Advanced Spark,Elective,Spark;CNN;Transformers;Indexing,Docker,Java,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,4,Introduction to EDA,Elective,EDA;Cloud Computing;Graphs,TensorFlow;Scikit-learn;Java,C++,Probability,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,5,Introduction to Indexing,Core,Indexing;Data Pipelines;Image Processing;RNN;Classification,PyTorch;Scikit-learn,C++,Basic Math,Apply,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,4,Introduction to Neural Networks,Core,Neural Networks;HDFS;Image Processing;Spark;Indexing;Cloud Computing,OpenCV;C++;Git,C++,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,6,Applied HDFS,Core,HDFS;Classification;Indexing,Pandas;Scikit-learn,Java,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,1,Advanced CNN,Elective,CNN;Normalization;Tokenization;Image Processing,PyTorch;OpenCV,C++,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,3,Applied Visualization,Core,Visualization;Tokenization;Arrays,Pandas,Java,Probability,Understand,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,3,Applied Graphs,Elective,Graphs;Cloud Computing;Visualization;Embeddings,Git,C++,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,7,Introduction to Indexing,Elective,Indexing;Classification;Dynamic Programming;Graphs,SQL,Python,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,2,Introduction to Image Processing,Elective,Image Processing;Indexing;Tokenization;Data Pipelines;Clustering,Spark;HuggingFace,Java,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,1,Advanced Neural Networks,Elective,Neural Networks;Image Processing;SQL;CNN,NLTK;TensorFlow;HuggingFace,Java,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,2,Foundations of CNN,Elective,CNN;Classification;Regression;Normalization,TensorFlow;HuggingFace;Pandas,C++,Statistics,Create,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,6,Applied Graphs,Elective,Graphs;Regression;EDA;Neural Networks;Embeddings;Trees,PyTorch;AWS,Python,Discrete Math,Understand,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,3,Advanced HDFS,Core,HDFS;Dynamic Programming;Arrays;SQL;Classification;CNN,AWS;Java,Python,Basic Math,Create,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,8,Introduction to Neural Networks,Elective,Neural Networks;Regression;Data Pipelines;Cloud Computing,HuggingFace;Scikit-learn,C++,Statistics,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,1,Advanced Image Processing,Core,Image Processing;HDFS;Spark,SQL;Java;Docker,Java,Logic,Create,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,3,Introduction to Transformers,Elective,Transformers;Regression;Cloud Computing,C++,Python,Statistics,Understand,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,4,Advanced Neural Networks,Elective,Neural Networks;CNN;Visualization;Tokenization,Python;PyTorch,Python,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,7,Introduction to Arrays,Core,Arrays;CNN;Neural Networks;Clustering,Docker;SQL;TensorFlow,C++,Statistics,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,7,Foundations of EDA,Elective,EDA;SQL;Indexing;Visualization,Scikit-learn;Java;Pandas,C++,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,1,Advanced Neural Networks,Core,Neural Networks;Embeddings;Spark,Scikit-learn;PyTorch,Python,Linear Algebra,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,8,Foundations of Normalization,Core,Normalization;Dynamic Programming;Trees;RNN;EDA,PyTorch;Python;Scikit-learn,Python,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,7,Introduction to Neural Networks,Core,Neural Networks;Spark;Deployment;Embeddings;RNN,Spark;Python,Python,Logic,Create,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,3,Introduction to Clustering,Core,Clustering;Regression;Linked Lists,Scikit-learn;Python,Python,Statistics,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,8,Advanced Tokenization,Elective,Tokenization;Graphs;Dynamic Programming;Visualization;Transformers;Trees,Pandas,Python,Basic Math,Apply,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,3,Foundations of Trees,Elective,Trees;Clustering;Tokenization;Data Pipelines;Graphs;RNN,Scikit-learn,Java,Logic,Understand,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,1,Foundations of Normalization,Elective,Normalization;EDA;Data Pipelines,Docker;OpenCV,C++,Basic Math,Create,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,3,Introduction to Linked Lists,Core,Linked Lists;HDFS;CNN;RNN,NLTK,Java,Probability,Apply,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,7,Advanced Arrays,Core,Arrays;Classification;Regression,HuggingFace;PyTorch,Java,Statistics,Create,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,5,Introduction to Transformers,Elective,Transformers;Data Pipelines;Graphs;Embeddings,Docker,Python,Logic,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,7,Advanced Spark,Core,Spark;Regression;Indexing;HDFS;Trees,Git,Java,Logic,Understand,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,7,Introduction to Tokenization,Elective,Tokenization;CNN;Dynamic Programming,OpenCV,Python,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,2,Foundations of Indexing,Core,Indexing;Graphs;Normalization;Data Pipelines;Cloud Computing;Neural Networks,Scikit-learn;AWS,Python,Basic Math,Create,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,3,Applied Linked Lists,Elective,Linked Lists;Trees;Indexing;CNN;RNN;Cloud Computing,Docker;HuggingFace;OpenCV,C++,Linear Algebra,Apply,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,5,Advanced Indexing,Elective,Indexing;Image Processing;Arrays,PyTorch,Java,Basic Math,Create,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,8,Advanced Spark,Core,Spark;Transformers;EDA;Data Pipelines;SQL,Java;Python,Python,Discrete Math,Apply,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,8,Advanced HDFS,Elective,HDFS;Clustering;Indexing;Image Processing,Java,Java,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,8,Applied Tokenization,Core,Tokenization;Arrays;Normalization;Cloud Computing;Clustering;Classification,AWS;Pandas,C++,Basic Math,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,8,Foundations of Linked Lists,Core,Linked Lists;Tokenization;SQL;Embeddings;Cloud Computing,AWS;OpenCV;Docker,Java,Logic,Analyze,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,5,Applied Tokenization,Core,Tokenization;Graphs;Deployment;Spark;HDFS;Transformers,NLTK;PyTorch,Java,Probability,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,4,Applied Spark,Elective,Spark;EDA;Data Pipelines;Normalization;Dynamic Programming,NLTK;Spark,C++,Logic,Apply,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,2,Applied Dynamic Programming,Core,Dynamic Programming;Regression;Classification;Visualization;Spark;Tokenization,HuggingFace,C++,Logic,Understand,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,5,Foundations of Data Pipelines,Core,Data Pipelines;Regression;Embeddings;Linked Lists;Trees,PyTorch;Java,Java,Probability,Analyze,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,1,Introduction to Dynamic Programming,Core,Dynamic Programming;EDA;Embeddings;Spark;Data Pipelines,NLTK,C++,Logic,Understand,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,2,Introduction to HDFS,Elective,HDFS;Graphs;Classification;Transformers,NLTK,Python,Discrete Math,Apply,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,6,Applied Graphs,Core,Graphs;Classification;Normalization;Indexing,SQL,C++,Probability,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,7,Introduction to HDFS,Elective,HDFS;Data Pipelines;Clustering;Dynamic Programming;Deployment,PyTorch;HuggingFace;SQL,Java,Logic,Analyze,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,3,Advanced EDA,Elective,EDA;Embeddings;Trees,TensorFlow,C++,Statistics,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,3,Applied HDFS,Elective,HDFS;EDA;Data Pipelines,Scikit-learn;PyTorch;Pandas,Java,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,3,Advanced Normalization,Elective,Normalization;HDFS;Classification;Image Processing;Spark;Visualization,Docker;NLTK;TensorFlow,C++,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,3,Foundations of Classification,Elective,Classification;Trees;Embeddings;Image Processing;CNN,TensorFlow;HuggingFace;OpenCV,C++,Probability,Create,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,1,Introduction to Neural Networks,Elective,Neural Networks;HDFS;Embeddings;Transformers;Graphs,HuggingFace,Python,Basic Math,Understand,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,4,Advanced Transformers,Core,Transformers;CNN;Data Pipelines;EDA,OpenCV;Python;NLTK,Python,Probability,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,2,Introduction to EDA,Core,EDA;Indexing;Trees;Linked Lists,Spark;Python,Python,Probability,Create,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,7,Advanced Cloud Computing,Core,Cloud Computing;Tokenization;HDFS;Indexing;Normalization,Spark;Docker;NLTK,Java,Basic Math,Create,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,2,Introduction to Normalization,Core,Normalization;Tokenization;Linked Lists;Visualization,Git,C++,Probability,Analyze,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,3,Introduction to Transformers,Core,Transformers;CNN;Tokenization,HuggingFace,Java,Probability,Apply,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,8,Introduction to Graphs,Elective,Graphs;Image Processing;Transformers,Pandas,Python,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,3,Applied Embeddings,Core,Embeddings;HDFS;Normalization;Deployment,OpenCV;Docker,Python,Basic Math,Create,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,7,Foundations of Image Processing,Elective,Image Processing;Linked Lists;Data Pipelines;Normalization;Visualization,OpenCV;Java,Python,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,2,Introduction to Spark,Core,Spark;Image Processing;Cloud Computing;Deployment,AWS,C++,Basic Math,Apply,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,4,Introduction to EDA,Core,EDA;Cloud Computing;Normalization;Trees,AWS;TensorFlow;PyTorch,Java,Statistics,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,6,Advanced Neural Networks,Elective,Neural Networks;Trees;Graphs;EDA;Image Processing;Regression,Python;Spark,Python,Statistics,Apply,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,6,Applied Arrays,Elective,Arrays;EDA;Linked Lists;CNN,Java;TensorFlow,Java,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,4,Introduction to Embeddings,Core,Embeddings;Deployment;SQL;Graphs;Neural Networks;Linked Lists,Docker;Git,Java,Basic Math,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,2,Advanced Deployment,Core,Deployment;Image Processing;HDFS;Dynamic Programming,AWS;PyTorch,Java,Logic,Apply,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,7,Applied Linked Lists,Elective,Linked Lists;Arrays;Normalization;Spark;CNN;Regression,C++,Java,Basic Math,Apply,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,5,Foundations of Regression,Core,Regression;Visualization;Image Processing,Java;Scikit-learn;Spark,Python,Logic,Analyze,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,6,Advanced HDFS,Elective,HDFS;Neural Networks;Deployment;EDA;Normalization,SQL;OpenCV,Python,Probability,Understand,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,1,Foundations of Arrays,Core,Arrays;Deployment;Data Pipelines;Regression;Indexing;Image Processing,NLTK;Docker;HuggingFace,Python,Discrete Math,Create,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,6,Advanced Spark,Core,Spark;Transformers;SQL;Regression;Arrays;Graphs,TensorFlow;SQL,Java,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,5,Advanced Clustering,Core,Clustering;Tokenization;Transformers;Linked Lists,Docker;NLTK,C++,Basic Math,Create,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,5,Foundations of Regression,Core,Regression;Image Processing;Classification;Data Pipelines;Cloud Computing;Spark,Python;Java;AWS,Python,Probability,Apply,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,5,Introduction to Data Pipelines,Core,Data Pipelines;Arrays;EDA;Image Processing,Scikit-learn;OpenCV;Git,Java,Statistics,Create,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,8,Introduction to Transformers,Core,Transformers;Embeddings;Linked Lists;Clustering;EDA;Neural Networks,Git;Docker,Java,Discrete Math,Understand,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,7,Foundations of Clustering,Core,Clustering;Classification;Regression,Scikit-learn;Java,Java,Statistics,Understand,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,6,Introduction to Clustering,Core,Clustering;Graphs;Tokenization;RNN;Linked Lists,Git;HuggingFace,Python,Statistics,Understand,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,1,Introduction to RNN,Core,RNN;EDA;Trees;Dynamic Programming;Linked Lists;Normalization,Scikit-learn,C++,Basic Math,Understand,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,5,Introduction to SQL,Core,SQL;Graphs;Spark;Indexing;Clustering;EDA,AWS;C++;Docker,Java,Basic Math,Understand,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,6,Advanced Graphs,Elective,Graphs;Arrays;Spark;EDA,AWS,Java,Statistics,Create,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,8,Advanced Clustering,Core,Clustering;Dynamic Programming;Linked Lists;CNN,PyTorch;Git;OpenCV,Java,Probability,Analyze,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,1,Advanced Linked Lists,Core,Linked Lists;Clustering;Embeddings;Image Processing,PyTorch,C++,Probability,Apply,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,8,Introduction to Cloud Computing,Core,Cloud Computing;RNN;Spark;CNN;Indexing,Python;Java,Python,Discrete Math,Apply,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,8,Introduction to Clustering,Core,Clustering;Tokenization;Visualization;Deployment,HuggingFace;NLTK,C++,Probability,Understand,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,1,Foundations of Dynamic Programming,Core,Dynamic Programming;CNN;Normalization,OpenCV,C++,Linear Algebra,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,5,Foundations of RNN,Core,RNN;Image Processing;Clustering;Regression,C++,Python,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,2,Introduction to Classification,Core,Classification;CNN;Normalization;Clustering;Transformers,OpenCV;Python,Python,Discrete Math,Apply,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,4,Foundations of Image Processing,Core,Image Processing;SQL;EDA;Transformers,AWS;PyTorch,Python,Probability,Apply,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,1,Foundations of Dynamic Programming,Core,Dynamic Programming;Embeddings;Cloud Computing;Tokenization;Classification,Java;HuggingFace;Docker,Python,Statistics,Analyze,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,8,Introduction to RNN,Core,RNN;EDA;Transformers;Embeddings,Docker;NLTK;Spark,C++,Linear Algebra,Apply,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,4,Foundations of Classification,Elective,Classification;CNN;Indexing;SQL;Cloud Computing;Regression,Scikit-learn;Git,Java,Logic,Analyze,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,1,Applied Embeddings,Elective,Embeddings;Spark;RNN;Indexing;Normalization;HDFS,PyTorch;TensorFlow,C++,Linear Algebra,Create,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,2,Foundations of Trees,Core,Trees;CNN;Embeddings;Image Processing;HDFS,HuggingFace,C++,Probability,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,6,Advanced Data Pipelines,Elective,Data Pipelines;RNN;Neural Networks;CNN,Pandas;HuggingFace;OpenCV,C++,Probability,Analyze,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,7,Advanced Cloud Computing,Core,Cloud Computing;HDFS;Arrays;Tokenization;Visualization;Embeddings,Pandas,Java,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,8,Foundations of Trees,Elective,Trees;RNN;Classification;Indexing;Deployment,PyTorch;SQL;Docker,C++,Logic,Apply,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,1,Applied Data Pipelines,Elective,Data Pipelines;Transformers;RNN;Clustering;Indexing;HDFS,HuggingFace;PyTorch;Spark,Python,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,6,Introduction to SQL,Elective,SQL;Classification;Deployment;Trees;Image Processing;EDA,Docker,C++,Linear Algebra,Understand,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,3,Introduction to EDA,Elective,EDA;Spark;Tokenization,Python,Python,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,2,Introduction to Linked Lists,Elective,Linked Lists;Transformers;Embeddings;Arrays;Regression;RNN,PyTorch;Python,Python,Basic Math,Understand,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,4,Advanced Classification,Elective,Classification;CNN;Indexing;EDA,Docker;Python;AWS,Python,Probability,Apply,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,8,Foundations of SQL,Core,SQL;Spark;Clustering,TensorFlow;AWS;Docker,Java,Basic Math,Create,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,5,Foundations of Spark,Elective,Spark;Regression;Indexing;Clustering;Visualization;Deployment,PyTorch;Docker;Spark,Python,Discrete Math,Apply,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,5,Applied EDA,Core,EDA;Visualization;Classification,PyTorch;HuggingFace,C++,Logic,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,3,Introduction to Classification,Elective,Classification;Embeddings;Linked Lists;Normalization;Arrays,OpenCV,Java,Basic Math,Create,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,1,Introduction to Neural Networks,Elective,Neural Networks;Graphs;EDA,TensorFlow,Java,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,4,Introduction to Dynamic Programming,Core,Dynamic Programming;Tokenization;Neural Networks;Regression;Data Pipelines;Arrays,Java;Python;Scikit-learn,Python,Discrete Math,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,3,Foundations of Transformers,Elective,Transformers;Regression;Classification;Linked Lists;Image Processing;EDA,NLTK;C++,Python,Probability,Create,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2022-2023,1,Foundations of Deployment,Core,Deployment;SQL;Classification,TensorFlow,Java,Discrete Math,Understand,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,4,Introduction to Clustering,Core,Clustering;Graphs;Data Pipelines,NLTK,Java,Probability,Apply,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,7,Applied Graphs,Core,Graphs;Clustering;Classification;Deployment;Transformers;RNN,C++,Java,Linear Algebra,Create,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,5,Advanced Linked Lists,Elective,Linked Lists;Trees;Classification;Indexing;CNN,Docker;Java;NLTK,C++,Logic,Analyze,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,7,Applied RNN,Core,RNN;Regression;HDFS;Deployment,TensorFlow;Pandas;OpenCV,Python,Logic,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,4,Introduction to Clustering,Core,Clustering;Arrays;Spark,Scikit-learn,Python,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,8,Introduction to Classification,Elective,Classification;Dynamic Programming;SQL;HDFS;Linked Lists,Spark,C++,Probability,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,1,Advanced HDFS,Core,HDFS;CNN;Arrays;Clustering;RNN;Deployment,SQL,Python,Statistics,Analyze,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,1,Advanced Tokenization,Core,Tokenization;Trees;Classification,OpenCV,C++,Logic,Apply,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,2,Applied Visualization,Elective,Visualization;Normalization;CNN;Regression;Classification;Clustering,Python;AWS,Python,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,8,Introduction to Transformers,Core,Transformers;SQL;Regression,Docker;PyTorch,Java,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,2,Applied Spark,Elective,Spark;Image Processing;Dynamic Programming;Visualization;Regression,PyTorch;Docker,Python,Logic,Create,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,3,Introduction to Classification,Elective,Classification;Dynamic Programming;Deployment;Arrays;Data Pipelines;Embeddings,NLTK;TensorFlow;Docker,Java,Statistics,Analyze,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,2,Introduction to Linked Lists,Elective,Linked Lists;Graphs;SQL;Cloud Computing;Regression;Classification,Scikit-learn;HuggingFace,Python,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,4,Advanced Tokenization,Elective,Tokenization;Linked Lists;Transformers;HDFS,OpenCV;C++;NLTK,Python,Statistics,Apply,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,3,Foundations of Graphs,Core,Graphs;Deployment;Trees,NLTK;PyTorch;Pandas,Java,Linear Algebra,Create,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,5,Advanced Cloud Computing,Elective,Cloud Computing;CNN;Indexing;Trees;Graphs;Deployment,Pandas;Python,Python,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,8,Introduction to Graphs,Core,Graphs;Trees;Deployment,PyTorch;Git;Spark,C++,Probability,Apply,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,4,Advanced Regression,Core,Regression;Embeddings;Graphs;Normalization;Cloud Computing;Classification,SQL,Java,Statistics,Create,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,2,Advanced Trees,Elective,Trees;CNN;SQL;Graphs,Java;TensorFlow,Java,Basic Math,Understand,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,5,Introduction to Data Pipelines,Elective,Data Pipelines;Cloud Computing;Linked Lists,SQL,Java,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,6,Foundations of Data Pipelines,Core,Data Pipelines;RNN;Clustering;Transformers;SQL,AWS;C++,Java,Basic Math,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,3,Introduction to Spark,Elective,Spark;Graphs;Embeddings,NLTK;HuggingFace,Python,Statistics,Apply,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,6,Introduction to HDFS,Elective,HDFS;Transformers;Linked Lists,TensorFlow;OpenCV;Docker,Python,Logic,Understand,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,8,Foundations of Visualization,Core,Visualization;SQL;CNN,SQL;NLTK;Python,Python,Statistics,Understand,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,8,Foundations of Normalization,Core,Normalization;Graphs;Tokenization;Data Pipelines,SQL;Spark;Pandas,Java,Basic Math,Understand,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,7,Introduction to Clustering,Core,Clustering;Visualization;Neural Networks;Data Pipelines;Tokenization,Java;OpenCV;Python,Python,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,2,Foundations of SQL,Elective,SQL;EDA;Visualization;HDFS;Image Processing,HuggingFace;SQL,C++,Discrete Math,Understand,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,4,Applied Cloud Computing,Core,Cloud Computing;Transformers;Dynamic Programming,PyTorch;AWS,Python,Logic,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,6,Introduction to Data Pipelines,Elective,Data Pipelines;Dynamic Programming;Embeddings;Spark;Cloud Computing,Java,C++,Probability,Apply,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,8,Applied Spark,Elective,Spark;CNN;Dynamic Programming;Visualization,Pandas;HuggingFace;NLTK,Python,Basic Math,Understand,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,8,Advanced Tokenization,Core,Tokenization;CNN;EDA;SQL,HuggingFace,Python,Basic Math,Understand,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,8,Introduction to CNN,Elective,CNN;Data Pipelines;Regression;Arrays;Image Processing;SQL,PyTorch;OpenCV,C++,Logic,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,4,Introduction to Graphs,Elective,Graphs;Dynamic Programming;RNN;Cloud Computing;Linked Lists;CNN,OpenCV;Python,Python,Probability,Apply,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,4,Introduction to Transformers,Core,Transformers;Visualization;Cloud Computing,OpenCV,C++,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,1,Advanced Embeddings,Core,Embeddings;HDFS;RNN,PyTorch;Python;OpenCV,Python,Discrete Math,Apply,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,5,Introduction to HDFS,Elective,HDFS;Visualization;SQL;Deployment,HuggingFace;OpenCV;Pandas,Python,Basic Math,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,2,Introduction to Trees,Elective,Trees;Graphs;Tokenization,OpenCV;Git;SQL,Python,Basic Math,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,7,Advanced HDFS,Elective,HDFS;EDA;Indexing;CNN;Cloud Computing;Dynamic Programming,TensorFlow,Python,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,8,Foundations of Embeddings,Core,Embeddings;Cloud Computing;Image Processing,Pandas;HuggingFace;OpenCV,Python,Basic Math,Apply,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,8,Foundations of Graphs,Core,Graphs;Linked Lists;Dynamic Programming;Cloud Computing;Classification,Python;Java;Git,Python,Logic,Analyze,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,3,Introduction to Data Pipelines,Elective,Data Pipelines;Arrays;Clustering;CNN;Linked Lists;Embeddings,OpenCV;Git,Python,Probability,Apply,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,1,Advanced Linked Lists,Elective,Linked Lists;Classification;Dynamic Programming;CNN,Python,Python,Probability,Apply,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,7,Applied Image Processing,Elective,Image Processing;Neural Networks;SQL,Spark;Python;PyTorch,Python,Basic Math,Apply,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,2,Introduction to HDFS,Core,HDFS;EDA;Classification;Transformers;Cloud Computing,OpenCV;Pandas;Git,Java,Statistics,Create,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,4,Foundations of Neural Networks,Elective,Neural Networks;Graphs;Image Processing,OpenCV,Python,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,5,Advanced Clustering,Elective,Clustering;Neural Networks;Arrays;Graphs,SQL;PyTorch,Python,Statistics,Understand,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,5,Introduction to Spark,Elective,Spark;Graphs;Linked Lists;Regression;RNN,Python;TensorFlow,Python,Logic,Apply,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2018-2019,3,Advanced Dynamic Programming,Elective,Dynamic Programming;SQL;Cloud Computing;Visualization,C++;NLTK,Python,Statistics,Apply,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,8,Introduction to Neural Networks,Elective,Neural Networks;Indexing;Embeddings;EDA;Clustering,OpenCV;Pandas,C++,Basic Math,Understand,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,4,Introduction to Regression,Core,Regression;Cloud Computing;Linked Lists,NLTK,Java,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,2,Foundations of Arrays,Elective,Arrays;Spark;Classification;Deployment;Indexing;Image Processing,TensorFlow;SQL;NLTK,C++,Basic Math,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,6,Applied Embeddings,Core,Embeddings;Transformers;Linked Lists;Indexing,PyTorch;Python,Python,Logic,Understand,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,8,Foundations of Neural Networks,Elective,Neural Networks;Classification;Arrays;Visualization;HDFS,PyTorch;SQL;Scikit-learn,Python,Statistics,Understand,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,8,Foundations of CNN,Elective,CNN;Transformers;Graphs;Arrays;Visualization,PyTorch,Java,Linear Algebra,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,3,Introduction to Graphs,Core,Graphs;Tokenization;Arrays;Dynamic Programming;Neural Networks;Clustering,PyTorch;TensorFlow,Python,Probability,Understand,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,8,Foundations of Dynamic Programming,Core,Dynamic Programming;Transformers;Visualization;Indexing,TensorFlow,Java,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,6,Introduction to Regression,Elective,Regression;Data Pipelines;Classification,OpenCV;Scikit-learn,Python,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,7,Foundations of Dynamic Programming,Elective,Dynamic Programming;Graphs;Visualization;Arrays;Deployment;HDFS,Git;C++,Java,Logic,Understand,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,5,Applied Tokenization,Core,Tokenization;Trees;Deployment;Indexing;Clustering,Python;NLTK;Git,Python,Probability,Apply,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,7,Advanced Tokenization,Core,Tokenization;EDA;Graphs;Visualization,AWS;Python;SQL,Python,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,5,Introduction to Dynamic Programming,Elective,Dynamic Programming;Indexing;Arrays;Spark,Java,Python,Basic Math,Apply,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,7,Applied Linked Lists,Elective,Linked Lists;Embeddings;Indexing;HDFS;Deployment;CNN,Scikit-learn,C++,Probability,Understand,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,1,Foundations of Data Pipelines,Elective,Data Pipelines;Visualization;RNN,Scikit-learn,C++,Probability,Create,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,5,Applied Graphs,Elective,Graphs;Data Pipelines;Arrays,Git;HuggingFace;Python,Python,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,7,Advanced Graphs,Core,Graphs;Dynamic Programming;HDFS,AWS;Java;C++,Python,Statistics,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,6,Applied Visualization,Elective,Visualization;Tokenization;Deployment;Classification;Image Processing,Python;C++;Spark,Python,Probability,Create,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,2,Advanced Trees,Elective,Trees;Tokenization;Indexing;Embeddings;Data Pipelines;Arrays,AWS,C++,Logic,Understand,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,7,Applied Data Pipelines,Core,Data Pipelines;Image Processing;Embeddings;Trees;Regression;Normalization,PyTorch;Git;HuggingFace,C++,Discrete Math,Apply,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,1,Advanced Embeddings,Core,Embeddings;EDA;Deployment;Neural Networks;CNN;Clustering,NLTK;Scikit-learn,C++,Logic,Apply,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,3,Applied Dynamic Programming,Elective,Dynamic Programming;Neural Networks;Linked Lists;HDFS;Clustering,Git,Java,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,7,Applied RNN,Core,RNN;Linked Lists;HDFS;Arrays;Transformers,NLTK,Python,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,7,Introduction to HDFS,Core,HDFS;Spark;Image Processing;Classification;Normalization,TensorFlow,Java,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,8,Introduction to Tokenization,Core,Tokenization;Regression;Normalization,Pandas,Python,Probability,Understand,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,3,Foundations of Data Pipelines,Core,Data Pipelines;Spark;Classification;Trees;Dynamic Programming;Deployment,SQL;Docker,Python,Discrete Math,Understand,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,1,Applied Arrays,Core,Arrays;Deployment;HDFS,Python,Python,Basic Math,Understand,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,2,Introduction to EDA,Core,EDA;Trees;Classification;Dynamic Programming;Tokenization,Spark;Docker;Python,Python,Linear Algebra,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,5,Foundations of Arrays,Core,Arrays;Linked Lists;Graphs,Scikit-learn;Java;Git,C++,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,6,Applied Clustering,Elective,Clustering;Data Pipelines;SQL;EDA;Graphs,Python;Java,Python,Discrete Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,2,Introduction to Spark,Core,Spark;Dynamic Programming;Regression,Git;TensorFlow,Python,Basic Math,Analyze,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,5,Advanced Graphs,Core,Graphs;Neural Networks;Tokenization;Data Pipelines;Transformers,HuggingFace;NLTK,Java,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,8,Advanced Graphs,Elective,Graphs;Cloud Computing;Indexing,Scikit-learn;Python;Java,Python,Probability,Analyze,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,8,Introduction to Spark,Core,Spark;HDFS;RNN;Dynamic Programming;Visualization;Clustering,PyTorch;Git,Java,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,4,Introduction to Clustering,Core,Clustering;Transformers;Arrays,Pandas,C++,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,3,Advanced Normalization,Core,Normalization;Dynamic Programming;Image Processing;Indexing;Clustering,Pandas,Python,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,1,Advanced Transformers,Elective,Transformers;Linked Lists;EDA;Graphs;Cloud Computing;Trees,Pandas;AWS,C++,Discrete Math,Apply,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,7,Applied Deployment,Elective,Deployment;Regression;Tokenization;Visualization,NLTK,Java,Basic Math,Analyze,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,1,Introduction to Graphs,Elective,Graphs;Dynamic Programming;Linked Lists;HDFS;Spark,Git,Python,Statistics,Analyze,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,5,Foundations of Indexing,Core,Indexing;Regression;Neural Networks;Trees,PyTorch;Python;NLTK,Python,Statistics,Apply,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,2,Introduction to Tokenization,Core,Tokenization;RNN;HDFS;EDA;SQL;Data Pipelines,C++,Java,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,6,Applied Clustering,Core,Clustering;CNN;Regression,Java;Spark;SQL,Python,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,2,Foundations of Cloud Computing,Elective,Cloud Computing;Tokenization;Linked Lists,TensorFlow,Java,Statistics,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,7,Advanced Dynamic Programming,Core,Dynamic Programming;EDA;Data Pipelines;Graphs;RNN,Spark;NLTK,Python,Statistics,Create,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,1,Advanced Regression,Core,Regression;Dynamic Programming;Data Pipelines;Normalization;Trees,Java;NLTK;SQL,Python,Logic,Analyze,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,3,Foundations of CNN,Core,CNN;Transformers;Spark;Indexing;Linked Lists,HuggingFace;OpenCV;PyTorch,Python,Basic Math,Create,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,1,Applied Deployment,Core,Deployment;CNN;Image Processing;Trees,Java;Docker,C++,Probability,Analyze,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,2,Advanced EDA,Core,EDA;Deployment;Normalization;Neural Networks,Scikit-learn;HuggingFace,Python,Statistics,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,5,Introduction to Indexing,Elective,Indexing;Spark;Data Pipelines;Dynamic Programming;Normalization;Transformers,Pandas;AWS;TensorFlow,Java,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,1,Introduction to EDA,Core,EDA;Image Processing;Arrays;Dynamic Programming,Scikit-learn,C++,Statistics,Create,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,6,Introduction to Normalization,Core,Normalization;HDFS;Image Processing;Deployment;Graphs;Trees,NLTK,Java,Probability,Understand,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,8,Introduction to EDA,Core,EDA;Visualization;Tokenization;Graphs,Docker;C++,Python,Linear Algebra,Analyze,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,7,Introduction to Transformers,Elective,Transformers;Indexing;Tokenization,C++,Java,Basic Math,Apply,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,2,Advanced SQL,Core,SQL;Trees;CNN;EDA;Normalization,Git;SQL,C++,Statistics,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,4,Foundations of Indexing,Core,Indexing;Tokenization;Image Processing;EDA;Regression,PyTorch;TensorFlow;NLTK,C++,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,6,Applied Dynamic Programming,Core,Dynamic Programming;Normalization;Tokenization,Java;HuggingFace,Java,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,2,Advanced Classification,Elective,Classification;Visualization;Indexing,Git;HuggingFace;Python,Python,Linear Algebra,Apply,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,1,Applied Transformers,Elective,Transformers;Arrays;CNN;Embeddings;Graphs,Docker;OpenCV;Spark,Python,Statistics,Analyze,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,8,Introduction to Transformers,Elective,Transformers;Regression;Image Processing;Spark;Visualization;EDA,PyTorch;Scikit-learn,Python,Logic,Understand,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,2,Foundations of HDFS,Elective,HDFS;Arrays;Spark,Java;Docker,Python,Logic,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,7,Applied Clustering,Elective,Clustering;Deployment;Normalization;Image Processing,Java;SQL,Java,Basic Math,Create,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,4,Foundations of Neural Networks,Core,Neural Networks;Data Pipelines;CNN;Indexing;Clustering,Spark,C++,Probability,Analyze,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,7,Advanced Image Processing,Elective,Image Processing;SQL;Classification;Spark,PyTorch;Pandas;C++,Python,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,3,Advanced Clustering,Elective,Clustering;Graphs;EDA;Dynamic Programming;Embeddings;Visualization,AWS;HuggingFace;PyTorch,C++,Discrete Math,Understand,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,1,Advanced Arrays,Elective,Arrays;Spark;EDA;Image Processing,AWS,Python,Basic Math,Analyze,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,4,Applied Classification,Core,Classification;Image Processing;Clustering;Visualization;Deployment,HuggingFace;Scikit-learn,C++,Basic Math,Understand,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,2,Advanced Normalization,Core,Normalization;Spark;Graphs,Python,Python,Discrete Math,Create,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,4,Applied Graphs,Elective,Graphs;Tokenization;Arrays;Indexing;Trees;Visualization,Java;SQL;OpenCV,C++,Linear Algebra,Analyze,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,1,Applied RNN,Core,RNN;Transformers;Tokenization,AWS;Git;C++,C++,Logic,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,3,Advanced Transformers,Elective,Transformers;Graphs;Classification;Arrays,Python;SQL,Python,Probability,Create,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,6,Advanced Normalization,Elective,Normalization;Visualization;Tokenization;Indexing;Embeddings,Spark;SQL,Java,Discrete Math,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,4,Applied Indexing,Elective,Indexing;Normalization;Deployment;Spark;Neural Networks;RNN,Java;AWS;PyTorch,Python,Discrete Math,Create,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,5,Introduction to CNN,Core,CNN;Spark;HDFS;Embeddings;Transformers;SQL,Java,Java,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,6,Advanced Dynamic Programming,Elective,Dynamic Programming;Deployment;RNN;Graphs;Arrays,NLTK;C++,Python,Probability,Apply,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,7,Introduction to Spark,Elective,Spark;Classification;Embeddings;Graphs;Image Processing,NLTK;AWS,Java,Probability,Apply,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,8,Introduction to Linked Lists,Core,Linked Lists;Neural Networks;Indexing;Graphs;Data Pipelines;Normalization,AWS,Python,Discrete Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,1,Foundations of CNN,Elective,CNN;Dynamic Programming;SQL;Linked Lists;Image Processing;Embeddings,TensorFlow,C++,Statistics,Analyze,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,6,Foundations of Trees,Elective,Trees;Image Processing;RNN;Tokenization;Spark;Linked Lists,Scikit-learn;NLTK,Python,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,1,Applied Graphs,Core,Graphs;RNN;EDA;Visualization,SQL;Python,Python,Basic Math,Understand,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,1,Applied Linked Lists,Core,Linked Lists;CNN;Trees,TensorFlow;NLTK,C++,Logic,Create,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,6,Advanced Deployment,Elective,Deployment;Cloud Computing;Indexing;HDFS,OpenCV;Java,Python,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,8,Advanced Trees,Core,Trees;Neural Networks;Deployment;CNN,Java;TensorFlow;Git,C++,Statistics,Understand,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,4,Introduction to SQL,Core,SQL;Classification;Tokenization;Graphs;RNN;Visualization,HuggingFace;Git;Pandas,Python,Discrete Math,Apply,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,7,Foundations of Spark,Core,Spark;Embeddings;Classification;SQL;EDA;Trees,PyTorch;Python,Python,Statistics,Understand,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,4,Introduction to Normalization,Elective,Normalization;Regression;Neural Networks,Docker,Java,Discrete Math,Understand,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,4,Foundations of SQL,Core,SQL;Embeddings;Indexing;RNN,Docker,Python,Statistics,Create,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,4,Advanced Regression,Core,Regression;Spark;Neural Networks;Embeddings;Visualization;Tokenization,PyTorch;Java;OpenCV,C++,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2022-2023,5,Introduction to Trees,Elective,Trees;Image Processing;Graphs;Neural Networks,Spark,Java,Discrete Math,Apply,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,5,Advanced Classification,Elective,Classification;Regression;Deployment;Transformers;HDFS;CNN,AWS;Scikit-learn;NLTK,Python,Probability,Apply,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,2,Applied Regression,Core,Regression;RNN;Normalization;Dynamic Programming,OpenCV,C++,Probability,Understand,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,1,Applied Tokenization,Core,Tokenization;Cloud Computing;Arrays;Clustering;Graphs,Pandas,Python,Logic,Apply,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2024-2025,2,Applied CNN,Elective,CNN;Visualization;RNN,Docker;NLTK,Java,Probability,Create,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,6,Foundations of EDA,Core,EDA;RNN;Embeddings;Deployment;Data Pipelines,Docker;Java;Scikit-learn,Java,Linear Algebra,Apply,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,1,Introduction to Cloud Computing,Core,Cloud Computing;Visualization;EDA;Indexing,SQL;NLTK,Java,Basic Math,Create,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,5,Applied RNN,Core,RNN;SQL;Cloud Computing;Indexing;Neural Networks,SQL;C++,Java,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,1,Applied Data Pipelines,Elective,Data Pipelines;Dynamic Programming;Normalization;Deployment;Visualization;Embeddings,AWS;Git,Java,Discrete Math,Analyze,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,1,Foundations of CNN,Core,CNN;Cloud Computing;Graphs;Linked Lists,Scikit-learn;C++,Java,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,3,Advanced EDA,Core,EDA;Neural Networks;Dynamic Programming,SQL;PyTorch;AWS,Java,Probability,Apply,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,7,Applied SQL,Core,SQL;Graphs;Neural Networks;CNN;Spark;Data Pipelines,AWS,Python,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,4,Advanced CNN,Elective,CNN;Trees;Cloud Computing;HDFS;Normalization,Python;PyTorch;HuggingFace,Python,Basic Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,6,Introduction to Transformers,Core,Transformers;Indexing;Normalization;Visualization;Data Pipelines;EDA,Spark,C++,Logic,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,6,Introduction to Spark,Core,Spark;Image Processing;Cloud Computing;CNN,HuggingFace,Java,Logic,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,1,Foundations of HDFS,Core,HDFS;Graphs;RNN;Spark;CNN,Docker;NLTK;TensorFlow,Python,Linear Algebra,Create,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,3,Advanced HDFS,Core,HDFS;CNN;Visualization;Arrays;Tokenization,NLTK;SQL;Java,Python,Discrete Math,Apply,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,8,Introduction to Embeddings,Elective,Embeddings;Normalization;SQL,Spark,C++,Linear Algebra,Analyze,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,8,Advanced Indexing,Core,Indexing;Dynamic Programming;HDFS,Python,Python,Logic,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,5,Introduction to Data Pipelines,Elective,Data Pipelines;Graphs;Cloud Computing;Tokenization;Transformers,Scikit-learn;PyTorch;Pandas,Java,Linear Algebra,Understand,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,2,Introduction to Arrays,Elective,Arrays;Cloud Computing;CNN;Linked Lists;HDFS;Spark,C++;TensorFlow,C++,Linear Algebra,Analyze,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,4,Applied EDA,Elective,EDA;Embeddings;SQL;Trees;Regression,Python;TensorFlow;OpenCV,Python,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,5,Applied Trees,Core,Trees;HDFS;Tokenization;SQL;EDA;Spark,Python;AWS;NLTK,Python,Basic Math,Analyze,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,6,Advanced Trees,Core,Trees;Linked Lists;Arrays;Regression;Clustering;Graphs,Java;Docker;OpenCV,C++,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,1,Applied Graphs,Core,Graphs;Linked Lists;Visualization;Trees;Normalization,AWS;OpenCV,Python,Statistics,Create,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,4,Introduction to Neural Networks,Core,Neural Networks;Tokenization;Normalization;Data Pipelines,SQL;Spark,C++,Logic,Understand,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,2,Advanced Linked Lists,Elective,Linked Lists;Dynamic Programming;Arrays;Transformers,AWS;Git,C++,Linear Algebra,Create,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,6,Advanced Trees,Elective,Trees;Normalization;Indexing;HDFS,Pandas;Java,C++,Discrete Math,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,6,Applied Clustering,Core,Clustering;CNN;Neural Networks,NLTK;TensorFlow,Python,Logic,Apply,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,5,Introduction to Spark,Elective,Spark;Linked Lists;Image Processing;Graphs;Cloud Computing;Tokenization,OpenCV;C++,C++,Probability,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,6,Foundations of Clustering,Elective,Clustering;Tokenization;Trees,Spark;AWS;NLTK,Python,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,3,Introduction to Visualization,Elective,Visualization;Linked Lists;Graphs;Tokenization;Embeddings,OpenCV,C++,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,4,Introduction to Data Pipelines,Elective,Data Pipelines;Deployment;Arrays;Image Processing;Tokenization;Linked Lists,HuggingFace;PyTorch,Python,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,6,Advanced Classification,Elective,Classification;RNN;Indexing;Linked Lists;Clustering,Java,Python,Logic,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,4,Applied Trees,Core,Trees;Linked Lists;Dynamic Programming,Python;Scikit-learn,Python,Probability,Apply,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,8,Advanced Data Pipelines,Elective,Data Pipelines;Trees;Neural Networks,SQL;Docker;NLTK,Python,Probability,Analyze,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,4,Introduction to RNN,Elective,RNN;EDA;Image Processing;Embeddings;Graphs,TensorFlow,C++,Linear Algebra,Apply,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,5,Introduction to Graphs,Core,Graphs;Transformers;Visualization;Dynamic Programming,SQL,C++,Statistics,Understand,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,7,Introduction to Trees,Core,Trees;Linked Lists;Neural Networks;Spark;SQL,C++;Pandas,C++,Linear Algebra,Create,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,7,Applied Data Pipelines,Core,Data Pipelines;CNN;Linked Lists,HuggingFace;TensorFlow;C++,C++,Probability,Create,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,1,Applied Image Processing,Core,Image Processing;SQL;Visualization,Scikit-learn;Pandas;Git,Java,Statistics,Apply,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,5,Applied Trees,Elective,Trees;Clustering;Deployment;Image Processing;CNN,AWS;PyTorch,Java,Basic Math,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,1,Introduction to CNN,Core,CNN;Cloud Computing;Data Pipelines,Pandas;Scikit-learn,Java,Discrete Math,Create,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,8,Foundations of Indexing,Elective,Indexing;Linked Lists;Cloud Computing;Trees,Spark;AWS,C++,Probability,Analyze,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,8,Foundations of Clustering,Core,Clustering;HDFS;Regression;Dynamic Programming,OpenCV;C++;SQL,Python,Logic,Create,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,1,Foundations of Linked Lists,Core,Linked Lists;EDA;Neural Networks;Arrays,Pandas;Spark;TensorFlow,Java,Discrete Math,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,2,Introduction to Clustering,Elective,Clustering;Classification;RNN,TensorFlow;Pandas;OpenCV,C++,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,6,Advanced Indexing,Core,Indexing;HDFS;Transformers;Tokenization;CNN,C++;Python;TensorFlow,Python,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,6,Foundations of SQL,Core,SQL;Cloud Computing;Linked Lists;Data Pipelines,Python;PyTorch;HuggingFace,Python,Logic,Create,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,2,Applied Spark,Core,Spark;Tokenization;Data Pipelines,Git;Docker;TensorFlow,Java,Linear Algebra,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,6,Foundations of EDA,Elective,EDA;Clustering;Normalization,Spark;PyTorch;TensorFlow,Python,Statistics,Apply,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,7,Applied Cloud Computing,Elective,Cloud Computing;Dynamic Programming;Image Processing;Clustering,OpenCV;AWS,Java,Probability,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,7,Foundations of Cloud Computing,Core,Cloud Computing;Tokenization;HDFS;Deployment,Spark,C++,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,8,Advanced Dynamic Programming,Elective,Dynamic Programming;Linked Lists;Indexing,NLTK,Java,Probability,Apply,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,4,Introduction to Graphs,Elective,Graphs;RNN;Cloud Computing;Spark;Visualization,Java,Python,Statistics,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2024-2025,8,Applied Visualization,Elective,Visualization;Regression;Deployment;Cloud Computing,Java;Python;C++,Python,Statistics,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,5,Introduction to Clustering,Elective,Clustering;CNN;Tokenization,C++;AWS,Java,Statistics,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2019-2020,1,Foundations of Indexing,Elective,Indexing;Embeddings;Neural Networks;Cloud Computing,TensorFlow;Java;Spark,Java,Statistics,Create,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,5,Advanced Spark,Core,Spark;Deployment;Graphs;Clustering;Data Pipelines,Python;Java,Python,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,4,Introduction to Tokenization,Core,Tokenization;Arrays;Transformers,Scikit-learn,Java,Probability,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,2,Advanced Indexing,Core,Indexing;Tokenization;Neural Networks;Trees;Dynamic Programming;EDA,OpenCV;Java;TensorFlow,Java,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,2,Foundations of Linked Lists,Core,Linked Lists;Indexing;Graphs;EDA;Embeddings,SQL;Pandas,C++,Linear Algebra,Create,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,4,Advanced Tokenization,Core,Tokenization;Dynamic Programming;Regression;Visualization;CNN,SQL,Java,Discrete Math,Create,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,4,Applied Linked Lists,Elective,Linked Lists;Indexing;EDA;Neural Networks,PyTorch;OpenCV;AWS,Python,Basic Math,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,4,Advanced Data Pipelines,Core,Data Pipelines;Tokenization;HDFS;SQL;Spark,Git;Docker,Java,Statistics,Create,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,7,Advanced Regression,Elective,Regression;Normalization;RNN,Java;TensorFlow;NLTK,Java,Logic,Create,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,1,Introduction to Neural Networks,Elective,Neural Networks;Embeddings;Classification;Indexing;Linked Lists,HuggingFace;TensorFlow;Scikit-learn,Java,Statistics,Create,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,5,Advanced Visualization,Core,Visualization;Clustering;RNN;HDFS;Linked Lists;CNN,PyTorch;SQL,Python,Logic,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,1,Foundations of SQL,Core,SQL;Trees;Deployment,TensorFlow;Spark;HuggingFace,Java,Logic,Apply,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,7,Foundations of CNN,Core,CNN;Regression;Transformers;RNN,SQL;Git,C++,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,8,Foundations of Regression,Elective,Regression;CNN;Arrays,OpenCV,Python,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,3,Advanced Trees,Core,Trees;Embeddings;Visualization;EDA;Deployment,PyTorch;C++;Pandas,Python,Logic,Create,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,5,Introduction to Indexing,Elective,Indexing;Embeddings;Visualization;Arrays;CNN,Docker;SQL,Java,Statistics,Understand,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,5,Applied CNN,Core,CNN;EDA;Image Processing;Embeddings;Clustering;SQL,Docker,Java,Linear Algebra,Understand,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,4,Foundations of Transformers,Core,Transformers;Tokenization;Cloud Computing;Graphs;HDFS;CNN,Python;HuggingFace,Python,Linear Algebra,Create,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,2,Introduction to SQL,Elective,SQL;Spark;Tokenization;Embeddings,Pandas;AWS;HuggingFace,Java,Probability,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,6,Introduction to Arrays,Elective,Arrays;Neural Networks;EDA;Classification;Image Processing;Tokenization,Docker;TensorFlow;OpenCV,Python,Logic,Understand,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,2,Introduction to Dynamic Programming,Elective,Dynamic Programming;Arrays;Regression;Embeddings;Graphs;EDA,Docker,C++,Basic Math,Create,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,7,Advanced Arrays,Core,Arrays;CNN;Graphs;Indexing;Visualization;Neural Networks,TensorFlow;AWS;Spark,Java,Logic,Apply,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,6,Introduction to Tokenization,Core,Tokenization;Normalization;Classification;RNN;Visualization,Pandas;Python;Spark,Python,Probability,Create,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,8,Introduction to Arrays,Elective,Arrays;CNN;EDA,SQL,C++,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,2,Applied HDFS,Elective,HDFS;Image Processing;Clustering;Transformers;Arrays,Scikit-learn,Python,Statistics,Analyze,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,4,Foundations of Cloud Computing,Core,Cloud Computing;Dynamic Programming;Graphs,SQL;Scikit-learn;Python,Python,Logic,Create,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,5,Applied Classification,Core,Classification;Regression;Arrays;Clustering;Deployment;Trees,Python;Spark;Pandas,Python,Discrete Math,Apply,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,8,Introduction to Data Pipelines,Elective,Data Pipelines;Tokenization;RNN;CNN;Embeddings;Graphs,Git,Java,Probability,Analyze,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,4,Applied HDFS,Core,HDFS;Neural Networks;EDA;Dynamic Programming,Git;Docker,Python,Statistics,Analyze,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,6,Foundations of Deployment,Core,Deployment;Data Pipelines;Transformers;Indexing;Classification;Spark,Spark;SQL;PyTorch,Java,Probability,Apply,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,5,Introduction to Graphs,Elective,Graphs;Transformers;Neural Networks;Embeddings;Arrays,Scikit-learn;C++;OpenCV,C++,Basic Math,Analyze,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,1,Foundations of EDA,Core,EDA;Tokenization;Spark,Docker;Spark;Python,Python,Probability,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,3,Foundations of Dynamic Programming,Elective,Dynamic Programming;Trees;Indexing;Graphs,Docker,C++,Logic,Analyze,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,1,Introduction to Data Pipelines,Core,Data Pipelines;RNN;EDA;Regression;Cloud Computing,TensorFlow;Git;C++,C++,Linear Algebra,Apply,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,2,Advanced Normalization,Core,Normalization;Linked Lists;Neural Networks;Spark,NLTK,Java,Probability,Analyze,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,8,Foundations of Cloud Computing,Core,Cloud Computing;Normalization;Trees,Spark,Java,Logic,Understand,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,1,Advanced HDFS,Elective,HDFS;Transformers;Normalization;Trees,SQL;Scikit-learn;OpenCV,C++,Statistics,Analyze,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,3,Foundations of Indexing,Elective,Indexing;Clustering;Classification;Neural Networks;Regression,Scikit-learn;NLTK,Java,Logic,Analyze,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,8,Applied Linked Lists,Core,Linked Lists;Cloud Computing;SQL;Dynamic Programming,AWS;SQL;NLTK,Java,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,4,Introduction to Classification,Elective,Classification;Normalization;Neural Networks;Linked Lists;Graphs,OpenCV;Spark;Python,Python,Probability,Create,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,1,Applied EDA,Core,EDA;Graphs;HDFS;Transformers;Arrays,PyTorch,C++,Probability,Analyze,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,3,Advanced Normalization,Elective,Normalization;Spark;Cloud Computing,NLTK;PyTorch;Spark,Python,Probability,Analyze,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,7,Introduction to Linked Lists,Core,Linked Lists;Clustering;Deployment;Embeddings;Graphs,PyTorch;HuggingFace,C++,Logic,Apply,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,4,Introduction to Dynamic Programming,Elective,Dynamic Programming;Data Pipelines;RNN;Linked Lists,Scikit-learn,C++,Statistics,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,4,Advanced CNN,Core,CNN;Trees;Regression;Clustering,PyTorch,Python,Logic,Analyze,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,3,Advanced Graphs,Core,Graphs;Tokenization;Image Processing;Data Pipelines;SQL,SQL;Docker;OpenCV,Java,Linear Algebra,Analyze,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,6,Foundations of Data Pipelines,Core,Data Pipelines;Visualization;Indexing;Spark;SQL,Java;TensorFlow;Docker,Python,Linear Algebra,Apply,4,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,6,Introduction to Spark,Core,Spark;Deployment;SQL,OpenCV,C++,Linear Algebra,Analyze,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,6,Applied HDFS,Elective,HDFS;Regression;Indexing;Dynamic Programming;CNN;Deployment,OpenCV;Pandas,C++,Linear Algebra,Create,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2022-2023,2,Introduction to Trees,Elective,Trees;Transformers;Data Pipelines;Graphs;HDFS;SQL,Python,Python,Discrete Math,Create,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,7,Introduction to Deployment,Elective,Deployment;Linked Lists;CNN;Indexing;Neural Networks;Graphs,HuggingFace;Spark;Docker,Python,Probability,Understand,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,7,Introduction to Dynamic Programming,Elective,Dynamic Programming;Arrays;RNN,AWS;Scikit-learn;SQL,C++,Statistics,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2018-2019,8,Applied Transformers,Core,Transformers;Linked Lists;Spark;Data Pipelines;Deployment;Neural Networks,TensorFlow;OpenCV,Java,Probability,Create,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,6,Advanced HDFS,Core,HDFS;Linked Lists;Spark;Graphs;Transformers,C++;Git;NLTK,Python,Discrete Math,Apply,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,8,Foundations of Neural Networks,Core,Neural Networks;Transformers;Normalization;Spark;Clustering;Embeddings,Docker;C++;Java,Python,Basic Math,Understand,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,2,Foundations of HDFS,Elective,HDFS;Visualization;CNN;Indexing;SQL,Python,Python,Discrete Math,Apply,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,5,Advanced EDA,Elective,EDA;Linked Lists;Transformers;Cloud Computing,SQL;HuggingFace,Python,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,3,Applied Neural Networks,Core,Neural Networks;Arrays;Indexing;Classification;Data Pipelines,Scikit-learn,C++,Linear Algebra,Understand,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,4,Applied Spark,Elective,Spark;CNN;Visualization,AWS;Pandas;Docker,Java,Logic,Understand,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,6,Introduction to Normalization,Core,Normalization;Dynamic Programming;Visualization;Tokenization;Classification,NLTK;Python;OpenCV,Python,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,6,Introduction to Classification,Core,Classification;Visualization;Embeddings,Scikit-learn;Spark,C++,Logic,Apply,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,7,Foundations of Deployment,Core,Deployment;Arrays;CNN;Image Processing;Tokenization;Clustering,Spark;Git,Java,Linear Algebra,Apply,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,5,Applied Regression,Elective,Regression;Deployment;Visualization;SQL,PyTorch;TensorFlow;HuggingFace,Java,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,6,Applied Clustering,Core,Clustering;SQL;Tokenization;Normalization;CNN;Data Pipelines,Spark,Python,Probability,Create,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,2,Foundations of Cloud Computing,Elective,Cloud Computing;HDFS;Indexing;EDA;Data Pipelines;Classification,C++;AWS;SQL,C++,Probability,Apply,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,8,Advanced Transformers,Core,Transformers;Arrays;Visualization,Spark;HuggingFace;OpenCV,Java,Probability,Apply,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,4,Introduction to Dynamic Programming,Core,Dynamic Programming;CNN;Trees;Arrays;Classification,Docker;Spark;SQL,C++,Statistics,Understand,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2024-2025,6,Introduction to Clustering,Elective,Clustering;Normalization;Visualization;Trees,NLTK,Java,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,2,Foundations of Normalization,Elective,Normalization;Tokenization;Visualization,Scikit-learn,Java,Basic Math,Create,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,2,Applied Dynamic Programming,Elective,Dynamic Programming;Neural Networks;Deployment,HuggingFace;Spark;Java,Python,Probability,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,8,Applied Neural Networks,Elective,Neural Networks;Graphs;RNN;HDFS,Java;Docker;NLTK,Java,Basic Math,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2024-2025,8,Foundations of Cloud Computing,Core,Cloud Computing;Neural Networks;Spark;Linked Lists;Deployment,Python,Python,Probability,Analyze,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,5,Advanced Cloud Computing,Core,Cloud Computing;HDFS;CNN;Tokenization,Docker;OpenCV;Scikit-learn,Python,Probability,Create,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,4,Applied Classification,Elective,Classification;Cloud Computing;CNN,AWS,Java,Logic,Apply,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,3,Advanced Embeddings,Elective,Embeddings;Transformers;SQL;Tokenization;HDFS,Pandas,Java,Discrete Math,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,5,Introduction to Clustering,Elective,Clustering;Dynamic Programming;Neural Networks;Spark,HuggingFace;Java;OpenCV,Python,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,4,Foundations of Transformers,Core,Transformers;Data Pipelines;Linked Lists;SQL,Java;TensorFlow;Git,Java,Logic,Apply,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,3,Applied Clustering,Core,Clustering;EDA;Normalization;Regression,AWS,Python,Linear Algebra,Understand,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,5,Applied Classification,Core,Classification;Clustering;Cloud Computing,Docker;Spark;Java,C++,Statistics,Understand,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,8,Introduction to Graphs,Core,Graphs;Image Processing;Cloud Computing;Classification,Docker;Scikit-learn;AWS,Python,Statistics,Apply,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,8,Introduction to Neural Networks,Elective,Neural Networks;Deployment;Indexing,Scikit-learn;Docker;OpenCV,Python,Probability,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,6,Foundations of Data Pipelines,Elective,Data Pipelines;Image Processing;Embeddings;CNN;HDFS,Java;HuggingFace,Python,Statistics,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,2,Advanced Data Pipelines,Elective,Data Pipelines;CNN;Graphs;Normalization;RNN;Image Processing,SQL,Python,Probability,Analyze,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,2,Advanced Spark,Core,Spark;Classification;Cloud Computing;Data Pipelines;Dynamic Programming,Python;SQL,Python,Probability,Create,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,7,Applied Clustering,Elective,Clustering;Neural Networks;Tokenization;CNN;Transformers,Scikit-learn,Java,Probability,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,7,Applied Deployment,Core,Deployment;SQL;Linked Lists,TensorFlow;OpenCV,Python,Linear Algebra,Apply,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,5,Advanced Transformers,Elective,Transformers;Arrays;RNN;Indexing;SQL,Git;Spark,Java,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,6,Introduction to Visualization,Core,Visualization;Cloud Computing;Tokenization;Linked Lists;SQL;EDA,Scikit-learn,C++,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,6,Applied CNN,Core,CNN;Graphs;Tokenization;Dynamic Programming;Trees;RNN,PyTorch;Pandas;Python,Python,Logic,Understand,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2019-2020,6,Applied Image Processing,Elective,Image Processing;Embeddings;CNN;EDA;Arrays,HuggingFace,Java,Basic Math,Apply,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,8,Foundations of Normalization,Core,Normalization;Transformers;RNN;Classification,NLTK;Scikit-learn;Pandas,C++,Basic Math,Create,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,8,Applied Embeddings,Elective,Embeddings;Linked Lists;Transformers,AWS,Java,Logic,Analyze,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,2,Introduction to Image Processing,Core,Image Processing;Deployment;Graphs,Python;HuggingFace;Git,Python,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,8,Introduction to HDFS,Core,HDFS;RNN;Trees;Regression,AWS;TensorFlow;Docker,Java,Logic,Analyze,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,7,Applied Arrays,Elective,Arrays;Clustering;RNN,Python;Scikit-learn,Python,Basic Math,Apply,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,3,Foundations of Deployment,Core,Deployment;Dynamic Programming;Classification;CNN,Java,Python,Probability,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,6,Foundations of Data Pipelines,Core,Data Pipelines;Classification;CNN;Regression,Scikit-learn;SQL,Java,Discrete Math,Create,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,4,Advanced Linked Lists,Core,Linked Lists;Normalization;Visualization;SQL;Classification;HDFS,AWS;Pandas,C++,Linear Algebra,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,6,Foundations of Indexing,Core,Indexing;Classification;Trees;Embeddings;Transformers,Scikit-learn;Git,Java,Statistics,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,6,Foundations of Trees,Elective,Trees;Indexing;HDFS;CNN;Clustering,Java;OpenCV;Pandas,Python,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,4,Foundations of Cloud Computing,Core,Cloud Computing;Arrays;Dynamic Programming;Embeddings,Python,Python,Logic,Apply,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,5,Foundations of Spark,Core,Spark;Indexing;Regression;Embeddings;Dynamic Programming,HuggingFace;Spark;OpenCV,C++,Statistics,Apply,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,6,Introduction to Spark,Core,Spark;RNN;Arrays;Tokenization;Linked Lists,Pandas;Python;PyTorch,Python,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,4,Advanced Indexing,Core,Indexing;Trees;Graphs,Docker;PyTorch,Java,Statistics,Create,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,6,Advanced Spark,Core,Spark;Data Pipelines;EDA;Graphs;Tokenization,NLTK;Pandas,Python,Linear Algebra,Apply,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,2,Applied EDA,Elective,EDA;SQL;CNN,Java;SQL;Pandas,Python,Statistics,Analyze,3,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,7,Advanced Data Pipelines,Core,Data Pipelines;Dynamic Programming;Cloud Computing;Visualization;Linked Lists,Spark;HuggingFace;PyTorch,C++,Linear Algebra,Understand,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,7,Advanced Arrays,Elective,Arrays;Cloud Computing;Tokenization;Transformers;Classification,Pandas;Spark;AWS,Python,Probability,Create,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,5,Applied RNN,Core,RNN;Regression;Neural Networks;Tokenization;Deployment,Docker;OpenCV;Java,Java,Statistics,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,2,Introduction to Normalization,Elective,Normalization;Graphs;Image Processing;EDA,Python;Pandas,Python,Logic,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,7,Applied Dynamic Programming,Core,Dynamic Programming;Data Pipelines;Clustering;Deployment,SQL,Python,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,4,Advanced Transformers,Core,Transformers;Regression;Graphs;Data Pipelines,OpenCV,Python,Logic,Create,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2020-2021,1,Foundations of CNN,Elective,CNN;SQL;Embeddings;Indexing;Tokenization;Normalization,Python;NLTK,Python,Basic Math,Analyze,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,2,Introduction to Deployment,Core,Deployment;Indexing;Dynamic Programming,Docker,Python,Statistics,Create,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,4,Advanced Trees,Core,Trees;Clustering;Neural Networks;Dynamic Programming;SQL,NLTK,Java,Linear Algebra,Analyze,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,2,Foundations of Embeddings,Elective,Embeddings;Graphs;Deployment;HDFS;Spark,SQL;OpenCV,C++,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,7,Introduction to Graphs,Elective,Graphs;HDFS;Normalization;Indexing;Cloud Computing,Spark,C++,Logic,Understand,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,6,Applied Data Pipelines,Elective,Data Pipelines;Tokenization;EDA;Indexing,C++;OpenCV,Python,Logic,Analyze,4,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,5,Introduction to Trees,Elective,Trees;Arrays;Graphs;EDA;Tokenization,AWS,C++,Basic Math,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,7,Introduction to Linked Lists,Elective,Linked Lists;Spark;Graphs;Cloud Computing;HDFS;EDA,Java;Spark;HuggingFace,Python,Basic Math,Understand,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,8,Foundations of Cloud Computing,Elective,Cloud Computing;Embeddings;Linked Lists;SQL;HDFS;Indexing,Spark;C++;SQL,C++,Probability,Create,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,8,Applied Transformers,Core,Transformers;Data Pipelines;Clustering;Neural Networks;Normalization,TensorFlow,C++,Logic,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,6,Applied Tokenization,Core,Tokenization;Trees;RNN;Transformers,Git;NLTK;HuggingFace,Python,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,8,Advanced Deployment,Core,Deployment;SQL;Classification;Neural Networks,Docker;TensorFlow;Pandas,Java,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,5,Introduction to Deployment,Elective,Deployment;Image Processing;Regression;SQL;Spark,Java;SQL;Spark,C++,Basic Math,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,7,Foundations of SQL,Core,SQL;Graphs;Visualization;CNN,AWS;Java;TensorFlow,Python,Linear Algebra,Analyze,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,4,Foundations of Clustering,Elective,Clustering;Normalization;HDFS;Classification,C++,Java,Statistics,Apply,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2019-2020,7,Applied Visualization,Core,Visualization;Neural Networks;EDA;Transformers;Deployment;Indexing,TensorFlow;SQL,Python,Linear Algebra,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,3,Applied Embeddings,Core,Embeddings;EDA;Tokenization,TensorFlow;Java;HuggingFace,Java,Probability,Understand,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,8,Introduction to Cloud Computing,Core,Cloud Computing;Indexing;Trees;Regression;Arrays;Image Processing,Git;OpenCV,C++,Basic Math,Analyze,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,5,Advanced Visualization,Elective,Visualization;Arrays;EDA;Spark;Tokenization,NLTK;HuggingFace,Java,Logic,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,7,Applied Deployment,Core,Deployment;Image Processing;Data Pipelines;Cloud Computing,Pandas;C++,C++,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,3,Foundations of Clustering,Elective,Clustering;Spark;Deployment;Regression,C++,C++,Discrete Math,Create,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,7,Introduction to SQL,Elective,SQL;EDA;Tokenization;Dynamic Programming;RNN;Regression,Scikit-learn,Java,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,4,Foundations of Transformers,Core,Transformers;HDFS;Trees;RNN,HuggingFace;Java,Python,Discrete Math,Analyze,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,1,Applied Arrays,Core,Arrays;RNN;SQL,C++;HuggingFace,C++,Linear Algebra,Create,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,4,Advanced Graphs,Elective,Graphs;Data Pipelines;Dynamic Programming;Spark;Transformers,Python;Docker;NLTK,Python,Discrete Math,Understand,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,2,Advanced CNN,Elective,CNN;Graphs;Transformers;Data Pipelines;Regression,Git;Python;Java,Python,Statistics,Create,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,2,Foundations of Clustering,Core,Clustering;Transformers;Dynamic Programming;Tokenization;Classification,C++;TensorFlow,Python,Basic Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,7,Introduction to CNN,Elective,CNN;RNN;Dynamic Programming;Normalization,Scikit-learn,Java,Discrete Math,Create,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,2,Foundations of Image Processing,Core,Image Processing;Tokenization;Spark;SQL;CNN,HuggingFace;Spark,C++,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,3,Introduction to Visualization,Core,Visualization;Linked Lists;Image Processing;Arrays;CNN,SQL;TensorFlow,Python,Probability,Understand,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,8,Foundations of Clustering,Core,Clustering;EDA;RNN;Trees,SQL;Docker;Spark,Java,Linear Algebra,Understand,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2018-2019,4,Applied Regression,Elective,Regression;SQL;Clustering;Transformers;Linked Lists,Python,Python,Basic Math,Analyze,3,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,5,Foundations of EDA,Elective,EDA;Arrays;Indexing;Deployment;SQL;Neural Networks,Pandas,C++,Basic Math,Create,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,4,Advanced HDFS,Elective,HDFS;Graphs;Regression,Java;Python,Python,Basic Math,Create,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2022-2023,5,Advanced Cloud Computing,Core,Cloud Computing;Neural Networks;Graphs;Deployment;SQL,Java,Python,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,2,Applied Linked Lists,Elective,Linked Lists;SQL;Regression;Trees,HuggingFace;Java;SQL,Python,Linear Algebra,Create,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,1,Applied Deployment,Elective,Deployment;Classification;Visualization;RNN,AWS,C++,Probability,Create,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2023-2024,1,Introduction to SQL,Core,SQL;Dynamic Programming;CNN;Embeddings;Trees;Clustering,OpenCV,Java,Discrete Math,Apply,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,5,Foundations of Dynamic Programming,Core,Dynamic Programming;Image Processing;RNN;Linked Lists,OpenCV,Python,Probability,Analyze,3,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,2,Foundations of Arrays,Core,Arrays;SQL;Cloud Computing;Linked Lists,HuggingFace;AWS,C++,Basic Math,Create,6,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,7,Applied Data Pipelines,Elective,Data Pipelines;Spark;SQL;Normalization;Visualization,OpenCV,Python,Statistics,Create,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,6,Applied Dynamic Programming,Core,Dynamic Programming;CNN;HDFS;Visualization,PyTorch,Java,Probability,Apply,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,7,Introduction to SQL,Elective,SQL;Dynamic Programming;HDFS;Transformers,PyTorch,Java,Statistics,Create,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,6,Applied Dynamic Programming,Elective,Dynamic Programming;Visualization;Embeddings;Classification;Clustering;Data Pipelines,SQL;AWS;Spark,Python,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,4,Foundations of Dynamic Programming,Core,Dynamic Programming;Tokenization;Graphs;Image Processing;HDFS;Normalization,Spark;Pandas,C++,Probability,Apply,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,7,Advanced Normalization,Elective,Normalization;Arrays;EDA;Classification,AWS;OpenCV,Python,Linear Algebra,Apply,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,8,Foundations of Visualization,Core,Visualization;Dynamic Programming;Deployment;Tokenization,AWS;HuggingFace,C++,Discrete Math,Understand,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,1,Applied Trees,Elective,Trees;RNN;Transformers;Classification;Visualization,SQL,Python,Statistics,Create,4,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,3,Introduction to CNN,Core,CNN;Graphs;Image Processing;Regression;Dynamic Programming,PyTorch,Python,Logic,Create,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,4,Introduction to Data Pipelines,Elective,Data Pipelines;Dynamic Programming;Normalization,HuggingFace,Java,Statistics,Apply,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2022-2023,6,Foundations of Cloud Computing,Core,Cloud Computing;Deployment;Regression;Normalization;Arrays;Tokenization,AWS;TensorFlow;Pandas,C++,Logic,Analyze,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,3,Introduction to Data Pipelines,Core,Data Pipelines;Classification;HDFS,Scikit-learn;NLTK,Python,Logic,Create,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,5,Advanced Embeddings,Elective,Embeddings;Neural Networks;Arrays;Tokenization,Spark;Python,Python,Probability,Create,4,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,1,Foundations of Visualization,Core,Visualization;Deployment;Data Pipelines;Normalization;Trees,Git;C++,Java,Statistics,Apply,4,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,7,Introduction to EDA,Elective,EDA;Data Pipelines;Neural Networks,PyTorch;TensorFlow;Pandas,C++,Probability,Analyze,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2019-2020,8,Advanced Neural Networks,Core,Neural Networks;Trees;Normalization;Data Pipelines;RNN,Spark;Java;C++,C++,Probability,Understand,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,4,Foundations of Trees,Core,Trees;Arrays;Visualization,NLTK,Python,Basic Math,Create,6,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2024-2025,6,Foundations of Spark,Core,Spark;Graphs;Linked Lists,Python;SQL;NLTK,Python,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,4,Advanced EDA,Elective,EDA;Trees;SQL,OpenCV;Git,Python,Basic Math,Apply,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2020-2021,1,Foundations of Regression,Core,Regression;Embeddings;Arrays;Trees;Deployment;Classification,Python;Git,Python,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,4,Introduction to SQL,Elective,SQL;HDFS;Cloud Computing;CNN,PyTorch;Git;OpenCV,Java,Basic Math,Apply,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2018-2019,5,Introduction to Deployment,Core,Deployment;Regression;Trees;Linked Lists;Tokenization,Spark;NLTK,Python,Basic Math,Create,3,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2023-2024,2,Applied Cloud Computing,Elective,Cloud Computing;Deployment;Transformers;EDA;Data Pipelines,OpenCV;Java;AWS,Java,Basic Math,Create,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2021-2022,5,Introduction to RNN,Elective,RNN;Image Processing;Classification;Clustering;Cloud Computing;Regression,NLTK,Java,Statistics,Create,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,3,Introduction to Visualization,Core,Visualization;Deployment;SQL;Indexing,Pandas,Java,Probability,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,3,Applied Cloud Computing,Elective,Cloud Computing;Regression;Classification;Graphs,PyTorch,C++,Discrete Math,Create,4,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2019-2020,5,Foundations of Clustering,Elective,Clustering;Classification;Tokenization;Spark;Visualization,PyTorch;Spark,C++,Discrete Math,Analyze,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,5,Advanced Clustering,Elective,Clustering;Embeddings;Tokenization;Classification,Docker;C++,Python,Probability,Create,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2018-2019,3,Introduction to RNN,Elective,RNN;Visualization;Transformers;EDA;Dynamic Programming,AWS;Docker,Java,Linear Algebra,Apply,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,4,Applied HDFS,Core,HDFS;Tokenization;Neural Networks;Image Processing;RNN,HuggingFace;TensorFlow;NLTK,Python,Logic,Apply,3,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2021-2022,8,Foundations of RNN,Elective,RNN;Embeddings;Graphs,HuggingFace;Python,Python,Statistics,Analyze,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,7,Advanced Deployment,Core,Deployment;Neural Networks;EDA;Dynamic Programming,Pandas;HuggingFace,Python,Discrete Math,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,8,Foundations of Neural Networks,Elective,Neural Networks;RNN;Tokenization;Spark,SQL;Pandas;HuggingFace,Python,Discrete Math,Apply,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,5,Foundations of SQL,Core,SQL;Indexing;EDA;Arrays,Scikit-learn;SQL,Python,Basic Math,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2020-2021,8,Foundations of Normalization,Elective,Normalization;HDFS;SQL;Image Processing,AWS,Java,Probability,Apply,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2022-2023,8,Introduction to Regression,Elective,Regression;Cloud Computing;Dynamic Programming;RNN;Arrays,C++,C++,Probability,Create,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,7,Foundations of SQL,Core,SQL;Regression;RNN;Spark;Deployment,OpenCV,Python,Basic Math,Apply,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2018-2019,2,Applied Dynamic Programming,Core,Dynamic Programming;Graphs;Embeddings;Regression,SQL;Java;HuggingFace,Java,Probability,Understand,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,1,Applied HDFS,Core,HDFS;SQL;EDA;Dynamic Programming;Image Processing;Trees,Docker,C++,Discrete Math,Understand,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2023-2024,4,Introduction to Linked Lists,Core,Linked Lists;Deployment;Clustering;EDA;Dynamic Programming;HDFS,TensorFlow;Spark;PyTorch,Python,Probability,Create,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,7,Introduction to Linked Lists,Core,Linked Lists;Classification;Cloud Computing,SQL,Java,Basic Math,Understand,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2020-2021,3,Introduction to Classification,Core,Classification;Dynamic Programming;Image Processing;Arrays;HDFS;Spark,Scikit-learn;Git,C++,Logic,Analyze,4,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,6,Introduction to SQL,Core,SQL;Graphs;HDFS;CNN;Normalization,Docker,C++,Discrete Math,Understand,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,2,Applied Classification,Elective,Classification;Deployment;Cloud Computing;Visualization,Scikit-learn;Pandas;NLTK,Java,Discrete Math,Apply,6,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,5,Introduction to Embeddings,Elective,Embeddings;Arrays;CNN;Classification,Pandas,Python,Probability,Create,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2022-2023,3,Foundations of Tokenization,Elective,Tokenization;Image Processing;Spark;CNN;Clustering;Trees,Java;C++;Pandas,C++,Probability,Create,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2023-2024,3,Applied Linked Lists,Elective,Linked Lists;Transformers;Classification,SQL;PyTorch;NLTK,Python,Discrete Math,Analyze,3,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,5,Advanced Neural Networks,Core,Neural Networks;Normalization;Classification;Graphs,NLTK;OpenCV;HuggingFace,C++,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,5,Introduction to Arrays,Core,Arrays;EDA;Cloud Computing;Tokenization;Trees,NLTK;Python;SQL,Python,Discrete Math,Create,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2024-2025,8,Foundations of Regression,Elective,Regression;Arrays;Cloud Computing;Linked Lists;Trees;Neural Networks,Scikit-learn;NLTK;Docker,C++,Linear Algebra,Create,3,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,1,Introduction to Image Processing,Core,Image Processing;EDA;Tokenization;Clustering;Linked Lists;CNN,Java;AWS,Java,Basic Math,Analyze,6,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,3,Advanced Visualization,Elective,Visualization;HDFS;Transformers;Indexing;Regression,PyTorch;TensorFlow;Docker,Python,Logic,Create,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2021-2022,2,Foundations of Dynamic Programming,Elective,Dynamic Programming;RNN;Transformers;HDFS;Normalization,HuggingFace;Git,Python,Basic Math,Apply,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,3,Foundations of Classification,Core,Classification;EDA;SQL;Trees,Spark;Java,Python,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,3,Introduction to Data Pipelines,Elective,Data Pipelines;EDA;RNN;Tokenization,TensorFlow,C++,Logic,Analyze,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2021-2022,2,Foundations of HDFS,Elective,HDFS;Normalization;Dynamic Programming;EDA,NLTK,C++,Discrete Math,Analyze,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,7,Advanced Classification,Core,Classification;Image Processing;HDFS;Graphs;Arrays,C++,Python,Discrete Math,Understand,4,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2021-2022,2,Introduction to Transformers,Elective,Transformers;Data Pipelines;SQL;Arrays;Spark;CNN,PyTorch;TensorFlow,Python,Logic,Understand,6,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2021-2022,1,Applied RNN,Elective,RNN;Transformers;Arrays;Neural Networks;Tokenization;SQL,HuggingFace;Java;PyTorch,C++,Statistics,Understand,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,2,Introduction to Neural Networks,Core,Neural Networks;Image Processing;Trees;EDA;Clustering;Graphs,PyTorch;NLTK,Java,Probability,Create,3,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,7,Introduction to Arrays,Core,Arrays;Data Pipelines;Dynamic Programming,Pandas;OpenCV;HuggingFace,Python,Linear Algebra,Create,4,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2023-2024,7,Advanced Neural Networks,Core,Neural Networks;Cloud Computing;Graphs,Git;Docker;Python,Python,Probability,Analyze,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,3,Advanced Classification,Elective,Classification;Tokenization;Clustering,PyTorch,C++,Probability,Apply,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2020-2021,8,Foundations of EDA,Elective,EDA;Normalization;Graphs;Regression,Python,Python,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,1,Introduction to HDFS,Core,HDFS;Image Processing;Graphs;Indexing;Tokenization,Scikit-learn,C++,Discrete Math,Analyze,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2020-2021,8,Advanced Embeddings,Elective,Embeddings;Clustering;Dynamic Programming;Graphs;Arrays;Regression,AWS,Python,Logic,Analyze,6,Yes,job_reverse_mapping,True
+IIT,CSE,B.Tech,2020-2021,8,Advanced Data Pipelines,Core,Data Pipelines;Regression;Cloud Computing,Java;Git,Java,Linear Algebra,Create,3,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,1,Advanced Graphs,Elective,Graphs;Embeddings;Data Pipelines,AWS;Git,C++,Statistics,Apply,3,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2023-2024,8,Advanced Tokenization,Core,Tokenization;Classification;Graphs;Regression;SQL;Image Processing,OpenCV;Git;HuggingFace,C++,Statistics,Understand,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2019-2020,4,Foundations of HDFS,Core,HDFS;Transformers;Clustering;Neural Networks;Indexing;Linked Lists,C++;Pandas,Python,Basic Math,Analyze,4,No,job_reverse_mapping,True
+IIT,CSE,B.Tech,2021-2022,4,Applied Tokenization,Elective,Tokenization;Spark;Embeddings;Indexing,Pandas;HuggingFace;OpenCV,C++,Statistics,Understand,4,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2018-2019,2,Applied Deployment,Elective,Deployment;HDFS;Linked Lists;Transformers,PyTorch;Scikit-learn,Python,Logic,Analyze,4,No,job_reverse_mapping,True
+NIT,AI,B.Tech,2024-2025,8,Foundations of SQL,Elective,SQL;EDA;Cloud Computing;Image Processing;Spark;HDFS,HuggingFace;AWS;Python,Python,Probability,Understand,4,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2023-2024,5,Applied CNN,Elective,CNN;Spark;Embeddings;Clustering;RNN,Spark;SQL,C++,Probability,Create,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2020-2021,7,Applied Deployment,Core,Deployment;Spark;Dynamic Programming;EDA,SQL;OpenCV,Java,Logic,Apply,3,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2023-2024,5,Applied Classification,Core,Classification;Spark;HDFS;RNN,Spark,Java,Statistics,Analyze,6,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,6,Foundations of Neural Networks,Core,Neural Networks;Spark;Trees;Graphs,Pandas;Git,Java,Statistics,Create,6,Yes,job_reverse_mapping,True
+NIT,AI,B.Tech,2022-2023,5,Foundations of Classification,Core,Classification;Neural Networks;Linked Lists;Indexing;HDFS;Tokenization,Java;Docker;PyTorch,C++,Discrete Math,Analyze,3,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2018-2019,2,Foundations of Graphs,Core,Graphs;Image Processing;Neural Networks;Dynamic Programming;Visualization,PyTorch;SQL;C++,C++,Probability,Analyze,4,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,4,Advanced Clustering,Core,Clustering;Spark;Cloud Computing;Deployment,Spark;Git,Python,Logic,Analyze,3,No,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,7,Applied Image Processing,Elective,Image Processing;Spark;Arrays;Regression,AWS,C++,Discrete Math,Apply,4,Yes,job_reverse_mapping,True
+IIIT,AI,B.Tech,2019-2020,4,Introduction to Spark,Elective,Spark;Regression;Visualization;Clustering;Neural Networks;Graphs,SQL,Java,Linear Algebra,Apply,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2024-2025,2,Introduction to EDA,Elective,EDA;Normalization;Visualization;Dynamic Programming;SQL;Spark,C++;Git,Python,Probability,Analyze,3,No,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,7,Advanced Spark,Elective,Spark;Classification;Transformers;Dynamic Programming;Trees;Deployment,OpenCV;PyTorch;Python,Python,Probability,Create,4,Yes,job_reverse_mapping,True
+IIIT,DS,B.Tech,2019-2020,5,Foundations of SQL,Elective,SQL;Spark;Tokenization;Arrays,Spark;AWS;SQL,Python,Discrete Math,Create,6,Yes,job_reverse_mapping,True
+IIT,AI,B.Tech,2020-2021,6,Applied Arrays,Elective,Arrays;Tokenization;Indexing;Normalization;EDA;Trees,Scikit-learn;TensorFlow,Java,Linear Algebra,Apply,3,Yes,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2024-2025,4,Foundations of SQL,Core,SQL;Transformers;Linked Lists,Java,Java,Discrete Math,Analyze,4,No,job_reverse_mapping,True
+IIIT,CSE,B.Tech,2019-2020,5,Advanced Indexing,Core,Indexing;Neural Networks;Regression;Clustering,Scikit-learn;Python,Python,Logic,Understand,6,Yes,job_reverse_mapping,True
+IIT,DS,B.Tech,2023-2024,3,Foundations of Image Processing,Core,Image Processing;Tokenization;Indexing;Regression;Clustering,HuggingFace,C++,Probability,Apply,6,No,job_reverse_mapping,True
+IIT,AI,B.Tech,2018-2019,8,Foundations of Visualization,Core,Visualization;Regression;Dynamic Programming;Image Processing;Clustering,TensorFlow,Java,Linear Algebra,Apply,3,Yes,job_reverse_mapping,True
+NIT,CSE,B.Tech,2021-2022,3,Foundations of Clustering,Core,Clustering;Spark;Transformers;Cloud Computing,Docker;SQL,C++,Basic Math,Understand,3,No,job_reverse_mapping,True
+NIT,DS,B.Tech,2021-2022,3,Introduction to CNN,Elective,CNN;Normalization;Embeddings,OpenCV;HuggingFace,Python,Logic,Analyze,6,No,job_reverse_mapping,True
+IIT,DS,B.Tech,2022-2023,7,Applied Embeddings,Elective,Embeddings;Indexing;Regression;Tokenization;Dynamic Programming,SQL,C++,Logic,Create,4,Yes,job_reverse_mapping,True
