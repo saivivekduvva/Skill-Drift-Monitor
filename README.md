@@ -4,6 +4,8 @@ An interactive **Streamlit-based analytics platform** that identifies **curricul
 
 This project helps institutions, educators, and curriculum designers **quantitatively evaluate skill relevance** and make **data-driven curriculum decisions**.
 
+🔗 Project Repository: https://github.com/saivivekduvva/Skill-Drift-Monitor
+🌐 Live App: https://skill-drift-monitor.streamlit.app/
 ---
 
 ## 📌 Overview
