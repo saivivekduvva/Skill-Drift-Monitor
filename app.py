@@ -9,3 +9,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+
+#Page Configuration
+st.set_page_config(page_title="Skill Drift Monitor", layout="wide", initial_sidebar_state="expanded")
