@@ -292,3 +292,55 @@ try:
             - *Score range is from 0 to 1*
             """)
 
+
+        fig_bar = px.bar(
+            display_df.head(15),
+            x='alignment_score',
+            y='Job Title',
+            orientation='h',
+            color='alignment_score',
+            color_continuous_scale='RdYlGn',
+            labels={"alignment_score": "Curriculum ↔ Industry Match Score"},
+            template="plotly_dark",
+            height=400
+        )
+
+        fig_bar.update_xaxes(range=[0, 1])
+        fig_bar.update_traces(
+            hovertemplate="<b>%{y}</b><br>Match Score: %{x:.2f}<extra></extra>"
+        )
+
+        st.plotly_chart(fig_bar, use_container_width=True)
+
+
+        st.markdown('</div>', unsafe_allow_html=True)
+
+        st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+        st.markdown("#### Analysis Summary")
+        m1, m2, m3 = st.columns(3)
+
+        m1.metric("Roles Found", len(display_df))
+        m2.metric("Mean Alignment", f"{avg_sim:.2%}")
+        m3.metric("Drift Risk", f"{drift_pct:.1f}%", delta="High" if drift_pct > 40 else "Normal", delta_color="inverse")
+        
+        st.divider()
+
+        col_pie, col_table = st.columns([1, 2])
+        with col_pie:
+            counts = display_df["Level"].value_counts()
+            st.subheader("🧠 Curriculum Risk Distribution")
+            st.caption("Breakdown of job roles by alignment health.")
+
+            fig_pie = px.pie(names=counts.index, values=counts.values, hole=0.6, template="plotly_dark",
+                            color_discrete_sequence=["#2ecc71", "#f1c40f", "#e74c3c"])
+            fig_pie.update_layout(paper_bgcolor='rgba(0,0,0,0)', showlegend=False)
+            st.plotly_chart(fig_pie, use_container_width=True)
+
+        with col_table:
+            st.dataframe(display_df[["Job Title", "Level", "alignment_score"]], use_container_width=True, height=280)
+        st.markdown('</div>', unsafe_allow_html=True)
+
+        st.sidebar.download_button("📥 Export Drift Report", display_df.to_csv(), "drift_report.csv")
+
+except Exception as e:
+    st.error(f"Waiting for data input... (System Error: {e})")
