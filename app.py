@@ -216,3 +216,79 @@ try:
             if s > 0.12: return "Partial Alignment"
             return "Low Alignment"
         jobs_df["Level"] = jobs_df["alignment_score"].apply(get_label)
+
+# --------------------------------------------------
+    # STRATEGIC EXPLORER
+    # --------------------------------------------------
+    st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+    st.markdown("### 🔍 Strategic Role Explorer")
+    
+    all_titles = jobs_df["Job Title"].unique().tolist()
+    search_col, sort_col = st.columns([3, 1])
+    
+    if 'search_val' not in st.session_state:
+        st.session_state.search_val = ""
+
+    search_query = search_col.text_input("Quick Search Job Roles", value=st.session_state.search_val)
+    sort_order = sort_col.selectbox("Sort Priority", ["Highest Alignment", "Lowest Alignment", "Alphabetical"])
+    st.markdown('</div>', unsafe_allow_html=True)
+
+    # Filtering & "Did You Mean"
+    display_df = jobs_df[jobs_df["Job Title"].str.contains(search_query, case=False, na=False)]
+
+    if display_df.empty and search_query != "":
+        st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+        st.warning(f"No exact matches for '{search_query}'.")
+        suggestions = difflib.get_close_matches(search_query, all_titles, n=6, cutoff=0.3)
+        if suggestions:
+            st.markdown("#### Suggested Roles:")
+            cols = st.columns(3)
+            for i, suggestion in enumerate(suggestions):
+                if cols[i % 3].button(suggestion, key=f"sug_{i}"):
+                    st.session_state.search_val = suggestion
+                    st.rerun()
+        st.markdown('</div>', unsafe_allow_html=True)
+    
+    # --------------------------------------------------
+    # ANALYTICS DASHBOARD
+    # --------------------------------------------------
+    if not display_df.empty:
+
+        avg_sim = display_df['alignment_score'].mean()
+        drift_pct = (len(display_df[display_df["Level"] == "Low Alignment"]) / len(display_df)) * 100
+
+        # ================= HERO EXECUTIVE SNAPSHOT =================
+        st.markdown("## 📌 Executive Curriculum Health Snapshot")
+
+        col1, col2, col3 = st.columns(3)
+
+        with col1:
+            st.metric("📉 Curriculum Risk", f"{drift_pct:.1f}%",
+                    help="Percentage of job roles with low syllabus relevance")
+
+        with col2:
+            st.metric("📊 Average Alignment", f"{avg_sim:.2%}",
+                    help="Overall curriculum relevance to industry")
+
+        with col3:
+            st.metric("📁 Roles Analyzed", len(display_df))
+        # ===========================================================
+
+        if sort_order == "Highest Alignment":
+            display_df = display_df.sort_values("alignment_score", ascending=False)
+        elif sort_order == "Lowest Alignment":
+            display_df = display_df.sort_values("alignment_score", ascending=True)
+        else:
+            display_df = display_df.sort_values("Job Title")
+
+        st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+
+        st.markdown("### 🔎 Strategic Role Explorer")
+
+        with st.expander("🧭 How to read this chart"):
+            st.markdown("""
+            - *Each bar represents one job role*
+            - *Bar length shows curriculum–industry relevance score*
+            - *Score range is from 0 to 1*
+            """)
+
