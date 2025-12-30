@@ -170,3 +170,49 @@ with st.sidebar:
     selected_label = st.radio("Analysis Mode", list(mode_options.keys()), index=0)
     analysis_mode = mode_options[selected_label]
     st.divider()
+
+
+# Main Content
+st.title("🎓 Academic–Industry Skill Drift Monitor")
+
+# Visual feedback for current mode
+if analysis_mode == "Demo Dataset":
+    st.markdown('<div class="status-header demo-mode">📊 CURRENT MODE: <b>SANDBOX / DEMO DATASET</b></div>', unsafe_allow_html=True)
+else:
+    st.markdown('<div class="status-header audit-mode">🏛 CURRENT MODE: <b>OFFICIAL INSTITUTION AUDIT</b></div>', unsafe_allow_html=True)
+
+st.markdown("<style>div[data-testid='stVerticalBlock'] > div:empty { display: none; }</style>", unsafe_allow_html=True)
+
+try:
+    jobs_df = pd.read_csv("Glassdoor_Salary_Cleaned_Version.csv")
+    
+    if analysis_mode == "Demo Dataset":
+        academic_df = pd.read_csv("synthetic_academic_syllabus_1000_rows.csv")
+    else:
+        uploaded = st.sidebar.file_uploader("Upload Institution Syllabus (CSV)", type=["csv"])
+        if uploaded: 
+            academic_df = pd.read_csv(uploaded)
+        else: 
+            st.info("👋 Waiting for file upload. Please upload your institutional syllabus CSV via the sidebar to begin the audit.")
+            st.stop()
+
+    # Pre-processing & Similarity
+    with st.spinner("Analyzing skill alignment..."):
+        jobs_df["clean_text"] = (jobs_df["Job Title"] + " " + jobs_df["Job Description"]).apply(clean_text)
+        academic_df["clean_text"] = academic_df.astype(str).agg(" ".join, axis=1).apply(clean_text)
+
+        vectorizer = TfidfVectorizer(max_features=1000)
+        all_text = pd.concat([academic_df["clean_text"], jobs_df["clean_text"]])
+        tfidf_matrix = vectorizer.fit_transform(all_text)
+        
+        acad_vec = tfidf_matrix[:len(academic_df)]
+        job_vec = tfidf_matrix[len(academic_df):]
+        
+        sim_scores = cosine_similarity(job_vec, acad_vec).max(axis=1)
+        jobs_df["alignment_score"] = sim_scores
+        
+        def get_label(s):
+            if s > 0.30: return "High Alignment"
+            if s > 0.12: return "Partial Alignment"
+            return "Low Alignment"
+        jobs_df["Level"] = jobs_df["alignment_score"].apply(get_label)
