@@ -134,3 +134,18 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
+# Data Processing
+@st.cache_resource
+def setup_nltk():
+    nltk.download("stopwords", quiet=True)
+    nltk.download("wordnet", quiet=True)
+    return set(stopwords.words("english")), WordNetLemmatizer()
+
+stop_words, lemmatizer = setup_nltk()
+
+def clean_text(text):
+    text = str(text).lower()
+    text = re.sub(r"[^a-z ]", " ", text)
+    tokens = [lemmatizer.lemmatize(w) for w in text.split() if w not in stop_words]
+    return " ".join(tokens)
